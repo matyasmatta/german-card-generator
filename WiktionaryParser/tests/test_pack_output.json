@@ -1,0 +1,2833 @@
+{
+    "en": {
+        "grapple": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#grapple (third-person singular simple present grapples, present participle grappling, simple past and past participle grappled)",
+                        "(transitive) To seize something and hold it firmly.",
+                        "(intransitive) To wrestle or tussle.",
+                        {
+                            "text": "(figurative, with with) To ponder and intensely evaluate a problem.",
+                            "examples": [
+                                "to grapple with one's conscience"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#grapple (countable and uncountable, plural grapples)",
+                        "A close hand-to-hand struggle; (uncountable) the act of grappling."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#grapple (plural grapples)",
+                        [
+                            "A tool with claws or hooks which is used to catch or hold something.",
+                            "(nautical) A device consisting of iron claws, attached to the end of a rope, used for grasping and holding an enemy ship prior to boarding; a grappling iron.",
+                            "(nautical) A grapnel (“type of anchor”)."
+                        ]
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#grapple (third-person singular simple present grapples, present participle grappling, simple past and past participle grappled)",
+                        "(transitive) To fasten, as with a grapple; (by extension) to fix; to join indissolubly.",
+                        "(transitive, intransitive) To climb (whether by means of a grapple and rope, or by hand, etc).",
+                        "(intransitive) To use a grapple (for example to attempt to find, hook, and raise a net or cable).",
+                        "(transitive, intransitive) To hook and raise with a grapple."
+                    ]
+                }
+            ]
+        ],
+        "cat": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        [
+                            "An animal of the family Felidae:",
+                            "A domesticated subspecies (Felis silvestris catus) of feline animal, commonly kept as a house pet. [from 8thc.]",
+                            "Any similar animal of the family Felidae, which includes lions, tigers, bobcats, etc."
+                        ],
+                        [
+                            "A person:",
+                            "(offensive) A spiteful or angry woman. [from early 13thc.]",
+                            "An enthusiast or player of jazz.",
+                            "(slang) A person (usually male).",
+                            "(slang) A prostitute. [from at least early 15thc.]"
+                        ],
+                        "(nautical) A strong tackle used to hoist an anchor to the cathead of a ship.",
+                        "(chiefly nautical) Short form of cat-o'-nine-tails.",
+                        "(archaic) A sturdy merchant sailing vessel (now only in \"catboat\").",
+                        [
+                            "(archaic, uncountable) The game of \"trap and ball\" (also called \"cat and dog\").",
+                            "The trap of the game of \"trap and ball\"."
+                        ],
+                        "(archaic) The pointed piece of wood that is struck in the game of tipcat.",
+                        "(slang, vulgar, African American Vernacular English) A vagina, a vulva; the female external genitalia.",
+                        "A double tripod (for holding a plate, etc.) with six feet, of which three rest on the ground, in whatever position it is placed.",
+                        "(historical) A wheeled shelter, used in the Middle Ages as a siege weapon to allow assailants to approach enemy defences."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#cat (third-person singular simple present cats, present participle catting, simple past and past participle catted)",
+                        "(nautical, transitive) To hoist (the anchor) by its ring so that it hangs at the cathead.",
+                        "(nautical, transitive) To flog with a cat-o'-nine-tails.",
+                        "(slang) To vomit something.",
+                        "To go wandering at night.",
+                        "To gossip in a catty manner."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        "Abbreviation of catamaran."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        "(computing) A program and command in Unix that reads one or more files and directs their content to the standard output."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#cat (third-person singular simple present cats, present participle catting, simple past and past participle catted)",
+                        "(computing, transitive) To apply the cat command to (one or more files).",
+                        "(computing, slang) To dump large amounts of data on (an unprepared target) usually with no intention of browsing it carefully."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#cat (not comparable)",
+                        {
+                            "text": "(Ireland, informal) Terrible, disastrous.",
+                            "examples": [
+                                "The weather was cat, so they returned home early."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (uncountable)",
+                        "(slang) A street name of the drug methcathinone."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        {
+                            "text": "(military, naval) A catapult.",
+                            "examples": [
+                                "a carrier's bow cats"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        "Abbreviation of category."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        "Abbreviation of catfish."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#cat (plural cats)",
+                        "(slang) Any of a variety of earth-moving machines. (from their manufacturer Caterpillar Inc.)",
+                        "A caterpillar drive vehicle (a ground vehicle which uses caterpillar tracks), especially tractors, trucks, minibuses, and snow groomers."
+                    ]
+                }
+            ]
+        ],
+        "dog": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#dog (plural dogs)",
+                        {
+                            "text": "A mammal, Canis lupus familiaris, that has been domesticated for thousands of years, of highly variable appearance due to human breeding.",
+                            "examples": [
+                                "The dog barked all night long."
+                            ]
+                        },
+                        "Any member of the Family Canidae, including domestic dogs, wolves, coyotes, jackals, foxes, and their relatives (extant and extinct); canid.",
+                        "(often attributive) A male dog, wolf or fox, as opposed to a bitch or vixen.",
+                        {
+                            "text": "(slang, derogatory) A dull, unattractive girl or woman.",
+                            "examples": [
+                                "She’s a real dog."
+                            ]
+                        },
+                        {
+                            "text": "(slang) A man (derived from definition 2).",
+                            "examples": [
+                                "You lucky dog!",
+                                "He's a silly dog."
+                            ]
+                        },
+                        {
+                            "text": "(slang, derogatory) A coward.",
+                            "examples": [
+                                "Come back and fight, you dogs!"
+                            ]
+                        },
+                        {
+                            "text": "(derogatory) Someone who is morally reprehensible.",
+                            "examples": [
+                                "You dirty dog."
+                            ]
+                        },
+                        "(slang) A sexually aggressive man (cf. horny).",
+                        "Any of various mechanical devices for holding, gripping, or fastening something, particularly with a tooth-like projection.",
+                        "(Can we clean up(+) this sense?) A click or pallet adapted to engage the teeth of a ratchet-wheel, to restrain the back action; a click or pawl. (See also: ratchet, windlass)",
+                        {
+                            "text": "A metal support for logs in a fireplace.",
+                            "examples": [
+                                "The dogs were too hot to touch."
+                            ]
+                        },
+                        "(cartomancy) The eighteenth Lenormand card.",
+                        "A hot dog.",
+                        "(poker slang) Underdog.",
+                        {
+                            "text": "(slang, almost always  in the plural) Foot.",
+                            "examples": [
+                                "My dogs are barking! ― My feet hurt!"
+                            ]
+                        },
+                        {
+                            "text": "(Cockney rhyming slang) (from \"dog and bone\") Phone or mobile phone.",
+                            "examples": [
+                                "My dog is dead.My mobile-phone battery has run out of charge and is no longer able to function."
+                            ]
+                        },
+                        "One of the cones used to divide up a racetrack when training horses.",
+                        "shortened form of dog meat.",
+                        "(film, slang) A flop; a film that performs poorly at the box office."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#dog (third-person singular simple present dogs, present participle dogging, simple past and past participle dogged)",
+                        "(transitive) To pursue with the intent to catch.",
+                        {
+                            "text": "(transitive) To follow in an annoying or harassing way.",
+                            "examples": [
+                                "The woman cursed him so that trouble would dog his every step."
+                            ]
+                        },
+                        {
+                            "text": "(transitive, nautical) To fasten a hatch securely.",
+                            "examples": [
+                                "It is very important to dog down these hatches..."
+                            ]
+                        },
+                        {
+                            "text": "(intransitive, emerging usage in  Britain) To watch, or participate, in sexual activity in a public place.",
+                            "examples": [
+                                "I admit that I like to dog at my local country park."
+                            ]
+                        },
+                        {
+                            "text": "(intransitive, transitive) To intentionally restrict one's productivity as employee; to work at the slowest rate that goes unpunished.",
+                            "examples": [
+                                "A surprise inspection of the night shift found that some workers were dogging it."
+                            ]
+                        },
+                        "(transitive) To criticize.",
+                        "(transitive, military) To divide (a watch) with a comrade."
+                    ]
+                }
+            ]
+        ],
+        "test": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#test (plural tests)",
+                        "A challenge, trial.",
+                        "A cupel or cupelling hearth in which precious metals are melted for trial and refinement.",
+                        "(academia) An examination, given often during the academic term.",
+                        "A session in which a product or piece of equipment is examined under everyday or extreme conditions to evaluate its durability, etc.",
+                        "(cricket, normally “Test”) A Test match.",
+                        "(marine biology) The external calciferous shell, or endoskeleton, of an echinoderm, e.g. sand dollars and sea urchins.",
+                        "(botany) Testa; seed coat.",
+                        "(obsolete) Judgment; distinction; discrimination."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#test (third-person singular simple present tests, present participle testing, simple past and past participle tested)",
+                        {
+                            "text": "To challenge.",
+                            "examples": [
+                                "Climbing the mountain tested our stamina."
+                            ]
+                        },
+                        "To refine (gold, silver, etc.) in a test or cupel; to subject to cupellation.",
+                        {
+                            "text": "To put to the proof; to prove the truth, genuineness, or quality of by experiment, or by some principle or standard; to try.",
+                            "examples": [
+                                "to test the soundness of a principle; to test the validity of an argument"
+                            ]
+                        },
+                        "(academics) To administer or assign an examination, often given during the academic term, to (somebody).",
+                        "To place a product or piece of equipment under everyday and/or extreme conditions and examine it for its durability, etc.",
+                        {
+                            "text": "(copulative) To be shown to be by test.",
+                            "examples": [
+                                "He tested positive for cancer."
+                            ]
+                        },
+                        {
+                            "text": "(chemistry) To examine or try, as by the use of some reagent.",
+                            "examples": [
+                                "to test a solution by litmus paper"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#test (plural tests)",
+                        "(obsolete) A witness."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#test (third-person singular simple present tests, present participle testing, simple past and past participle tested)",
+                        "(obsolete, transitive) To attest (a document) legally, and date it.",
+                        "(obsolete, intransitive) To make a testament, or will."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#test (uncountable)",
+                        "(informal, slang, body building) testosterone"
+                    ]
+                }
+            ]
+        ],
+        "house": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#house (countable and uncountable, plural houses or (dialectal) housen or (chiefly humorous) hice)",
+                        {
+                            "text": "A structure built or serving as an abode of human beings. [from 9th c.]",
+                            "examples": [
+                                "This is my house and my family's ancestral home."
+                            ]
+                        },
+                        "The people who live in a house; a household. [from 9th c.]",
+                        [
+                            {
+                                "text": "A building used for something other than a residence (typically with qualifying word). [from 10th c.]",
+                                "examples": [
+                                    "The former carriage house had been made over into a guest house.",
+                                    "On arriving at the zoo, we immediately headed for the monkey house."
+                                ]
+                            },
+                            {
+                                "text": "A place of business; a company or organisation, especially a printing press, a publishing company, or a couturier. [from 10th c.]",
+                                "examples": [
+                                    "A small publishing house would have a contract with an independent fulfillment house."
+                                ]
+                            },
+                            {
+                                "text": "A place of public accommodation or entertainment, especially a public house, an inn, a restaurant, a theatre, or a casino; or the management thereof.[from 10th c.]",
+                                "examples": [
+                                    "One more, sir, then I'll have to stop serving you – rules of the house, I'm afraid.",
+                                    "The house always wins."
+                                ]
+                            },
+                            "(historical) A workhouse."
+                        ],
+                        "The audience for a live theatrical or similar performance. [from 10th c.]",
+                        {
+                            "text": "A theatre.",
+                            "examples": [
+                                "After her swan-song, there wasn't a dry eye in the house."
+                            ]
+                        },
+                        {
+                            "text": "(politics) A building where a deliberative assembly meets; whence the assembly itself, particularly a component of a legislature. [from 10th c.]",
+                            "examples": [
+                                "The petition was so ridiculous that the house rejected it after minimal debate."
+                            ]
+                        },
+                        {
+                            "text": "A dynasty; a family with its ancestors and descendants, especially a royal or noble one. [from 10th c.]",
+                            "examples": [
+                                "A curse lay upon the House of Atreus."
+                            ]
+                        },
+                        "(figurative) A place of rest or repose. [from 9th c.]",
+                        {
+                            "text": "A grouping of schoolchildren for the purposes of competition in sports and other activities. [from 19th c.]",
+                            "examples": [
+                                "I was a member of Spenser house when I was at school."
+                            ]
+                        },
+                        "An animal's shelter or den, or the shell of an animal such as a snail, used for protection. [from 10th c.]",
+                        "(astrology) One of the twelve divisions of an astrological chart. [from 14th c.]",
+                        "(cartomancy) The fourth Lenormand card.",
+                        "(chess, now rare) A square on a chessboard, regarded as the proper place of a piece. [from 16th c.]",
+                        "(curling) The four concentric circles where points are scored on the ice. [from 19th c.]",
+                        "Lotto; bingo. [from 20th c.]",
+                        {
+                            "text": "(uncountable) A children's game in which the players pretend to be members of a household.",
+                            "examples": [
+                                "As the babysitter, Emma always acted as the mother whenever the kids demanded to play house."
+                            ]
+                        },
+                        "(US, dialect) A small stand of trees in a swamp.",
+                        "(sudoku) A set of cells in a Sudoku puzzle which must contain each digit exactly once, such as a row, column, or 3×3 box in classic Sudoku."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#house (third-person singular simple present houses, present participle housing, simple past and past participle housed)",
+                        {
+                            "text": "(transitive) To keep within a structure or container.",
+                            "examples": [
+                                "The car is housed in the garage."
+                            ]
+                        },
+                        "(transitive) To admit to residence; to harbor/harbour.",
+                        "To take shelter or lodging; to abide; to lodge.",
+                        "(transitive, astrology) To dwell within one of the twelve astrological houses.",
+                        "(transitive) To contain or cover mechanical parts.",
+                        "(obsolete) To drive to a shelter.",
+                        "(obsolete) To deposit and cover, as in the grave.",
+                        {
+                            "text": "(nautical) To stow in a safe place; to take down and make safe.",
+                            "examples": [
+                                "to house the upper spars"
+                            ]
+                        },
+                        "(Canada, US, slang, transitive) To eat."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#house (uncountable)",
+                        "(music) House music."
+                    ]
+                }
+            ]
+        ],
+        "game": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#game (countable and uncountable, plural games)",
+                        [
+                            "A playful or competitive activity.",
+                            {
+                                "text": "A playful activity that may be unstructured; an amusement or pastime.",
+                                "examples": [
+                                    "Being a child is all fun and games."
+                                ]
+                            },
+                            {
+                                "text": "(countable) An activity described by a set of rules, especially for the purpose of entertainment, often competitive or having an explicit goal.",
+                                "examples": [
+                                    "Games in the classroom can make learning fun."
+                                ]
+                            },
+                            {
+                                "text": "(countable) A particular instance of playing a game; match.",
+                                "examples": [
+                                    "Sally won the game.",
+                                    "They can turn the game around in the second half."
+                                ]
+                            },
+                            "That which is gained, such as the stake in a game.",
+                            {
+                                "text": "The number of points necessary to win a game.",
+                                "examples": [
+                                    "In short whist, five points are game."
+                                ]
+                            },
+                            "(card games) In some games, a point awarded to the player whose cards add up to the largest sum.",
+                            {
+                                "text": "(countable) The equipment that enables such activity, particularly as packaged under a title.",
+                                "examples": [
+                                    "Some of the games in the closet we have on the computer as well."
+                                ]
+                            },
+                            {
+                                "text": "One's manner, style, or performance in playing a game.",
+                                "examples": [
+                                    "Study can help your game of chess.",
+                                    "Hit the gym if you want to toughen up your game."
+                                ]
+                            },
+                            "(obsolete, uncountable) An amorous dalliance."
+                        ],
+                        "(countable) A video game.",
+                        {
+                            "text": "(countable, informal, nearly always singular) A field of gainful activity, as an industry or profession.",
+                            "examples": [
+                                "When it comes to making sales, John is the best in the game.",
+                                "He's in the securities game somehow."
+                            ]
+                        },
+                        {
+                            "text": "(countable, figurative) Something that resembles a game with rules, despite not being designed.",
+                            "examples": [
+                                "In the game of life, you may find yourself playing the waiting game far too often."
+                            ]
+                        },
+                        "(countable, military) An exercise simulating warfare, whether computerized or involving human participants.",
+                        {
+                            "text": "(uncountable) Wild animals hunted for food.",
+                            "examples": [
+                                "The forest has plenty of game."
+                            ]
+                        },
+                        {
+                            "text": "(uncountable, informal, used mostly of males) The ability to seduce someone, usually by strategy.",
+                            "examples": [
+                                "He didn't get anywhere with her because he had no game."
+                            ]
+                        },
+                        "(uncountable, slang) Mastery; the ability to excel at something.",
+                        {
+                            "text": "(countable) A questionable or unethical practice in pursuit of a goal; a scheme.",
+                            "examples": [
+                                "You want to borrow my credit card for a week? What's your game?"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#game (comparative gamer, superlative gamest)",
+                        "(colloquial) Willing to participate.",
+                        "(of an animal) That shows a tendency to continue to fight against another animal, despite being wounded, often severely.",
+                        "Persistent, especially in senses similar to the above.",
+                        "Injured, lame (of a limb)."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#game (third-person singular simple present games, present participle gaming, simple past and past participle gamed)",
+                        "(intransitive) To gamble.",
+                        "(intransitive) To play video games.",
+                        {
+                            "text": "(transitive) To exploit loopholes in a system or bureaucracy in a way which defeats or nullifies the spirit of the rules in effect, usually to obtain a result which otherwise would be unobtainable.",
+                            "examples": [
+                                "We'll bury them in paperwork, and game the system."
+                            ]
+                        },
+                        "(transitive, slang, of males) To perform premeditated seduction strategy."
+                    ]
+                }
+            ]
+        ],
+        "line": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#line (plural lines)",
+                        [
+                            {
+                                "text": "A path through two or more points (compare ‘segment’); a continuous mark, including as made by a pen; any path, curved or straight.",
+                                "examples": [
+                                    "The arrow descended in a curved line."
+                                ]
+                            },
+                            "(geometry) An infinitely extending one-dimensional figure that has no curvature; one that has length but not breadth or thickness.",
+                            "(geometry, informal) A line segment; a continuous finite segment of such a figure.",
+                            "(graph theory) An edge of a graph.",
+                            "(geography) A circle of latitude or of longitude, as represented on a map.",
+                            "(geography, ‘the line’ or ‘equinoctial line’) The equator.",
+                            "(music) One of the straight horizontal and parallel prolonged strokes on and between which the notes are placed.",
+                            "(cricket) The horizontal path of a ball towards the batsman (see also length).",
+                            "(soccer) The goal line."
+                        ],
+                        "A rope, cord, string, or thread, of any thickness.",
+                        {
+                            "text": "A hose or pipe, of any size.",
+                            "examples": [
+                                "a brake line",
+                                "the main water line to the house"
+                            ]
+                        },
+                        {
+                            "text": "Direction, path.",
+                            "examples": [
+                                "the line of sight",
+                                "the line of vision"
+                            ]
+                        },
+                        {
+                            "text": "The wire connecting one telegraphic station with another, a telephone or internet cable between two points: a telephone or network connection.",
+                            "examples": [
+                                "I tried to make a call, but the line was dead.",
+                                "a dedicated line;  a shared line",
+                                "Please speak up, the line is very faint."
+                            ]
+                        },
+                        "A clothesline.",
+                        {
+                            "text": "A letter, a written form of communication.",
+                            "examples": [
+                                "Drop me a line."
+                            ]
+                        },
+                        {
+                            "text": "A connected series of public conveyances, as a roadbed or railway track; and hence, an established arrangement for forwarding merchandise, etc.",
+                            "examples": [
+                                "a line of stages",
+                                "an express line"
+                            ]
+                        },
+                        "(military) A trench or rampart, or the non-physical demarcation of the extent of the territory occupied by specified forces.",
+                        "The exterior limit of a figure or territory: a boundary, contour, or outline; a demarcation.",
+                        "A long tape or ribbon marked with units for measuring; a tape measure.",
+                        "(obsolete) A measuring line or cord.",
+                        "That which was measured by a line, such as a field or any piece of land set apart; hence, allotted place of abode.",
+                        "A threadlike crease or wrinkle marking the face, hand, or body; hence, a characteristic mark.",
+                        "Lineament; feature; figure (of one's body).",
+                        {
+                            "text": "A more-or-less straight sequence of people, objects, etc., either arranged as a queue or column and often waiting to be processed or dealt with, or arranged abreast of one another in a row (and contrasted with a column), as in a military formation. [from mid-16thc.]",
+                            "examples": [
+                                "The line forms on the right.",
+                                "There is a line of houses."
+                            ]
+                        },
+                        "(military) The regular infantry of an army, as distinguished from militia, guards, volunteer corps, cavalry, artillery, etc.",
+                        "A series or succession of ancestors or descendants of a given person; a family or race; compare lineage.",
+                        [
+                            "A small amount of text. Specifically:",
+                            {
+                                "text": "A written or printed row of letters, words, numbers, or other text, especially a row of words extending across a page or column, or a blank in place of such text.",
+                                "examples": [
+                                    "The answer to the comprehension question can be found in the third line of the accompanying text."
+                                ]
+                            },
+                            "A verse (in poetry).",
+                            {
+                                "text": "A sentence of dialogue, especially [from the later 19thc.] in a play, movie, or the like.",
+                                "examples": [
+                                    "He was perfecting his pickup lines for use at the bar.",
+                                    "\"It is what it is\" was one his more annoying lines."
+                                ]
+                            },
+                            {
+                                "text": "A lie or exaggeration, especially one told to gain another's approval or prevent losing it.",
+                                "examples": [
+                                    "Don't feed me a line!"
+                                ]
+                            }
+                        ],
+                        "Course of conduct, thought, occupation, or policy; method of argument; department of industry, trade, or intellectual activity. [from earlier 17thc.]",
+                        {
+                            "text": "The official, stated position (or set of positions) of an individual or group, particularly a political or religious faction. [from later 19thc.]",
+                            "examples": [
+                                "Remember, your answers must match the party line."
+                            ]
+                        },
+                        {
+                            "text": "A set of products or services sold by a business, or by extension, the business itself. [from earlier 19thc.]",
+                            "examples": [
+                                "line of business, product line",
+                                "How many buses does the line have?",
+                                "The airline is in danger of bankruptcy."
+                            ]
+                        },
+                        "(stock exchange) A number of shares taken by a jobber.",
+                        [
+                            "A measure of length:",
+                            "(historical) A tsarist-era Russian unit of measure, approximately equal to one tenth of an English inch, used especially when measuring the calibre of firearms.",
+                            "One twelfth of an inch.",
+                            "One fortieth of an inch."
+                        ],
+                        "(historical) A maxwell, a unit of magnetic flux.",
+                        "(baseball, slang, 1800s, with \"the\") The batter’s box.",
+                        "(fencing, ‘line of engagement’) The position in which the fencers hold their swords.",
+                        {
+                            "text": "(engineering) Proper relative position or adjustment (of parts, not as to design or proportion, but with reference to smooth working).",
+                            "examples": [
+                                "the engine is in line / out of line"
+                            ]
+                        },
+                        "A small portion or serving of a powdery illegal drug.",
+                        "(obsolete) Instruction; doctrine.",
+                        "(genetics) Population of cells derived from a single cell and containing the same genetic makeup.",
+                        "(perfusion line) a set composed of a spike, a drip chamber, a clamp, a Y-injection site, a three-way stopcock and a catheter.",
+                        "(ice hockey) A group of forwards that play together.",
+                        {
+                            "text": "(medicine, colloquial) A vascular catheter.",
+                            "examples": [
+                                "patient had a line inserted",
+                                "line sepsis"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+                        {
+                            "text": "(transitive) To place (objects) into a line (usually used with \"up\"); to form into a line; to align.",
+                            "examples": [
+                                "to line troops"
+                            ]
+                        },
+                        {
+                            "text": "(transitive) To place persons or things along the side of for security or defense; to strengthen by adding; to fortify.",
+                            "examples": [
+                                "to line works with soldiers"
+                            ]
+                        },
+                        "(transitive) To form a line along.",
+                        {
+                            "text": "(transitive) To mark with a line or lines, to cover with lines.",
+                            "examples": [
+                                "to line a copy book"
+                            ]
+                        },
+                        "(transitive, obsolete) To represent by lines; to delineate; to portray.",
+                        {
+                            "text": "(transitive) To read or repeat line by line.",
+                            "examples": [
+                                "to line out a hymn"
+                            ]
+                        },
+                        {
+                            "text": "(intransitive, baseball) To hit a line drive; to hit a line drive which is caught for an out. Compare fly and ground.",
+                            "examples": [
+                                "Jones lined to left in his last at-bat."
+                            ]
+                        },
+                        "(transitive) To track (wild bees) to their nest by following their line of flight.",
+                        "(transitive) To measure."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#line (uncountable)",
+                        "(obsolete) Flax; linen, particularly the longer fiber of flax."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+                        {
+                            "text": "(transitive) To cover the inner surface of (something), originally especially with linen.",
+                            "examples": [
+                                "The bird lines its nest with soft grass.",
+                                "to line a cloak with silk or fur",
+                                "to line a box with paper or tin",
+                                "paintings lined the walls of the cavernous dining room"
+                            ]
+                        },
+                        "To reinforce (the back of a book) with glue and glued scrap material such as fabric or paper.",
+                        {
+                            "text": "(transitive) To fill or supply (something), as a purse with money.",
+                            "examples": [
+                                "to line the shelves"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#line (third-person singular simple present lines, present participle lining, simple past and past participle lined)",
+                        "(transitive, now rare, of a dog) To copulate with, to impregnate."
+                    ]
+                }
+            ]
+        ],
+        "catch": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#catch (countable and uncountable, plural catches)",
+                        {
+                            "text": "(countable) The act of seizing or capturing.",
+                            "examples": [
+                                "The catch of the perpetrator was the product of a year of police work."
+                            ]
+                        },
+                        {
+                            "text": "(countable) The act of catching an object in motion, especially a ball.",
+                            "examples": [
+                                "The player made an impressive catch.",
+                                "Nice catch!"
+                            ]
+                        },
+                        {
+                            "text": "(countable) The act of noticing, understanding or hearing.",
+                            "examples": [
+                                "Good catch. I never would have remembered that."
+                            ]
+                        },
+                        {
+                            "text": "(uncountable) The game of catching a ball.",
+                            "examples": [
+                                "The kids love to play catch."
+                            ]
+                        },
+                        {
+                            "text": "(countable) Something which is captured or caught.",
+                            "examples": [
+                                "The fishermen took pictures of their catch.",
+                                "The catch amounted to five tons of swordfish."
+                            ]
+                        },
+                        {
+                            "text": "(countable, colloquial, by extension) A find, in particular a boyfriend or girlfriend or prospective spouse.",
+                            "examples": [
+                                "Did you see his latest catch?",
+                                "He's a good catch."
+                            ]
+                        },
+                        {
+                            "text": "(countable) A stopping mechanism, especially a clasp which stops something from opening.",
+                            "examples": [
+                                "She installed a sturdy catch to keep her cabinets closed tight."
+                            ]
+                        },
+                        {
+                            "text": "(countable) A hesitation in voice, caused by strong emotion.",
+                            "examples": [
+                                "There was a catch in his voice when he spoke his father's name."
+                            ]
+                        },
+                        {
+                            "text": "(countable, sometimes  noun adjunct) A concealed difficulty, especially in a deal or negotiation.",
+                            "examples": [
+                                "It sounds like a great idea, but what's the catch?",
+                                "Be careful, that's a catch question."
+                            ]
+                        },
+                        {
+                            "text": "(countable) A crick; a sudden muscle pain during unaccustomed positioning when the muscle is in use.",
+                            "examples": [
+                                "I bent over to see under the table and got a catch in my side."
+                            ]
+                        },
+                        "(countable) A fragment of music or poetry.",
+                        "(obsolete) A state of readiness to capture or seize; an ambush.",
+                        "(countable, agriculture) A crop which has germinated and begun to grow.",
+                        "(obsolete) A type of strong boat, usually having two masts; a ketch.",
+                        "(countable, music) A type of humorous round in which the voices gradually catch up with one another; usually sung by men and often having bawdy lyrics.",
+                        "(countable, music) The refrain; a line or lines of a song which are repeated from verse to verse.",
+                        "(countable, cricket, baseball) The act of catching a hit ball before it reaches the ground, resulting in an out.",
+                        "(countable, cricket) A player in respect of his catching ability; particularly one who catches well.",
+                        "(countable, rowing) The first contact of an oar with the water.",
+                        "(countable, phonetics) A stoppage of breath, resembling a slight cough.",
+                        "Passing opportunities seized; snatches.",
+                        "A slight remembrance; a trace."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#catch (third-person singular simple present catches, present participle catching, simple past and past participle caught)",
+                        [
+                            "(heading) To capture, overtake.",
+                            {
+                                "text": "(transitive) To capture or snare (someone or something which would rather escape). [from 13thc.]",
+                                "examples": [
+                                    "I hope I catch a fish.  He ran but we caught him at the exit.  The police caught the robber at a nearby casino."
+                                ]
+                            },
+                            "(transitive) To entrap or trip up a person; to deceive. [from 14thc.]",
+                            "(transitive, figurative, dated) To marry or enter into a similar relationship with.",
+                            {
+                                "text": "(transitive) To reach (someone) with a strike, blow, weapon etc. [from 16thc.]",
+                                "examples": [
+                                    "If he catches you on the chin, you'll be on the mat."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To overtake or catch up to; to be in time for. [from 17thc.]",
+                                "examples": [
+                                    "If you leave now you might catch him.  I would love to have dinner but I have to catch a plane."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To unpleasantly discover unexpectedly; to unpleasantly surprise (someone doing something). [from 17thc.]",
+                                "examples": [
+                                    "He was caught on video robbing the bank.  He was caught in the act of stealing a biscuit."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To travel by means of. [from 19thc.]",
+                                "examples": [
+                                    "catch the bus"
+                                ]
+                            },
+                            "(transitive, rare) To become pregnant. (Only in past tense or as participle.) [from 19thc.]"
+                        ],
+                        [
+                            "(heading) To seize hold of.",
+                            {
+                                "text": "(transitive, dated) To grab, seize, take hold of. [from 13thc.]",
+                                "examples": [
+                                    "I caught her by the arm and turned her to face me."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To take or replenish something necessary, such as breath or sleep. [from 14thc.]",
+                                "examples": [
+                                    "I have to stop for a moment and catch my breath.  I caught some Z's on the train."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To grip or entangle. [from 17thc.]",
+                                "examples": [
+                                    "My leg was caught in a tree-root."
+                                ]
+                            },
+                            {
+                                "text": "(intransitive) To be held back or impeded.",
+                                "examples": [
+                                    "Be careful your dress doesn't catch on that knob.  His voice caught when he came to his father's name."
+                                ]
+                            },
+                            {
+                                "text": "(intransitive) To engage with some mechanism; to stick, to succeed in interacting with something or initiating some process.",
+                                "examples": [
+                                    "Push it in until it catches.  The engine finally caught and roared to life."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To have something be held back or impeded.",
+                                "examples": [
+                                    "I caught my heel on the threshold."
+                                ]
+                            },
+                            {
+                                "text": "(intransitive) To make a grasping or snatching motion (at). [from 17thc.]",
+                                "examples": [
+                                    "He caught at the railing as he fell."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) Of fire, to spread or be conveyed to. [from 18thc.]",
+                                "examples": [
+                                    "The fire spread slowly until it caught the eaves of the barn."
+                                ]
+                            },
+                            "(transitive, rowing) To grip (the water) with one's oars at the beginning of the stroke. [from 19thc.]",
+                            {
+                                "text": "(intransitive, agriculture) To germinate and set down roots. [from 19thc.]",
+                                "examples": [
+                                    "The seeds caught and grew."
+                                ]
+                            },
+                            "(transitive, surfing) To contact a wave in such a way that one can ride it back to shore.",
+                            {
+                                "text": "(transitive, computing) To handle an exception. [from 20thc.]",
+                                "examples": [
+                                    "When the program catches an exception, this is recorded in the log file."
+                                ]
+                            }
+                        ],
+                        [
+                            "(heading) To intercept.",
+                            {
+                                "text": "(transitive) To seize or intercept an object moving through the air (or, sometimes, some other medium). [from 16thc.]",
+                                "examples": [
+                                    "I will throw you the ball, and you catch it.  Watch me catch this raisin in my mouth."
+                                ]
+                            },
+                            "(transitive, now rare) To seize (an opportunity) when it occurs. [from 16thc.]",
+                            {
+                                "text": "(transitive, cricket) To end a player's innings by catching a hit ball before the first bounce. [from 18thc.]",
+                                "examples": [
+                                    "Townsend hit 29 before he was caught by Wilson."
+                                ]
+                            },
+                            {
+                                "text": "(transitive, intransitive, baseball) To play (a specific period of time) as the catcher. [from 19thc.]",
+                                "examples": [
+                                    "He caught the last three innings."
+                                ]
+                            }
+                        ],
+                        [
+                            "(heading) To receive (by being in the way).",
+                            {
+                                "text": "(transitive) To be the victim of (something unpleasant, painful etc.). [from 13thc.]",
+                                "examples": [
+                                    "You're going to catch a beating if they find out."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To be touched or affected by (something) through exposure. [from 13thc.]",
+                                "examples": [
+                                    "The sunlight caught the leaves and the trees turned to gold.  Her hair was caught by the light breeze."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To be infected by (an illness). [from 16thc.]",
+                                "examples": [
+                                    "Everyone seems to be catching the flu this week."
+                                ]
+                            },
+                            "(intransitive) To spread by infection or similar means.",
+                            {
+                                "text": "(transitive, intransitive) To receive or be affected by (wind, water, fire etc.). [from 18thc.]",
+                                "examples": [
+                                    "The bucket catches water from the downspout.  The trees caught quickly in the dry wind."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To acquire, as though by infection; to take on through sympathy or infection. [from 16thc.]",
+                                "examples": [
+                                    "She finally caught the mood of the occasion."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To be hit by something.",
+                                "examples": [
+                                    "He caught a bullet in the back of the head last year."
+                                ]
+                            },
+                            "(intransitive) To serve well or poorly for catching, especially for catching fish.",
+                            {
+                                "text": "(intransitive) To get pregnant.",
+                                "examples": [
+                                    "Well, if you didn't catch this time, we'll have more fun trying again until you do."
+                                ]
+                            }
+                        ],
+                        [
+                            "(heading) To take in with one's senses or intellect.",
+                            {
+                                "text": "(transitive) To grasp mentally: perceive and understand. [from 16thc.]",
+                                "examples": [
+                                    "Did you catch his name?  Did you catch the way she looked at him?"
+                                ]
+                            },
+                            {
+                                "text": "(transitive, informal) To take in; to watch or listen to (an entertainment). [from 20thc.]",
+                                "examples": [
+                                    "I have some free time tonight so I think I'll catch a movie."
+                                ]
+                            },
+                            {
+                                "text": "(transitive) To reproduce or echo a spirit or idea faithfully. [from 17thc.]",
+                                "examples": [
+                                    "You've really caught his determination in this sketch."
+                                ]
+                            }
+                        ],
+                        [
+                            "(heading) To seize attention, interest.",
+                            "(transitive) To charm or entrance. [from 14thc.]",
+                            {
+                                "text": "(transitive) To attract and hold (a faculty or organ of sense). [from 17thc.]",
+                                "examples": [
+                                    "He managed to catch her attention.  The enormous scarf did catch my eye."
+                                ]
+                            }
+                        ],
+                        "(heading) To obtain or experience"
+                    ]
+                }
+            ]
+        ],
+        "trip up": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#trip up (third-person singular simple present trips up, present participle tripping up, simple past and past participle tripped up)",
+                        "(intransitive) To commit an error, make a mistake.",
+                        "(transitive) To cause (someone) to commit an error, trick into a mistake.",
+                        "(intransitive) To fall or stumble.",
+                        "(transitive) To cause (someone) to fall or stumble."
+                    ]
+                }
+            ]
+        ],
+        "error": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#error (countable and uncountable, plural errors)",
+                        "(uncountable) The state, quality, or condition of being wrong.",
+                        "(countable) A mistake; an accidental wrong action or a false statement not made deliberately.",
+                        "(countable, uncountable) Sin; transgression.",
+                        "(computing, countable) A failure to complete a task, usually involving a premature termination.",
+                        "(statistics, countable) The difference between a measured or calculated value and a true one.",
+                        "(baseball, countable) A play which is scored as having been made incorrectly.",
+                        "(appellate  law, uncountable) One or more mistakes in a trial that could be grounds for review of the judgement.",
+                        "Any alteration in the DNA chemical structure occurring during DNA replication, recombination or repairing."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#error (third-person singular simple present errors, present participle erroring, simple past and past participle errored)",
+                        {
+                            "text": "(computing) To function improperly due to an error, especially accompanied by error message.",
+                            "examples": [
+                                "The web-page took a long time to load and errored out.",
+                                "Remove that line of code and the script should stop erroring there.",
+                                "This directory errors with a \"Permission denied\" message."
+                            ]
+                        },
+                        {
+                            "text": "(telecommunications) To show or contain an error or fault.",
+                            "examples": [
+                                "The block transmission errored near the start and could not be received."
+                            ]
+                        },
+                        "(nonstandard) To err."
+                    ]
+                }
+            ]
+        ],
+        "true": [
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#true (comparative truer or more true, superlative truest or most true)",
+                        {
+                            "text": "(of a statement) Conforming to the actual state of reality or fact; factually correct.",
+                            "examples": [
+                                "This is a true story."
+                            ]
+                        },
+                        {
+                            "text": "Conforming to a rule or pattern; exact; accurate.",
+                            "examples": [
+                                "a true copy;   a true likeness of the original"
+                            ]
+                        },
+                        {
+                            "text": "(logic) Of the state in Boolean logic that indicates an affirmative or positive result.",
+                            "examples": [
+                                "\"A and B\" is true if and only if \"A\" is true and \"B\" is true."
+                            ]
+                        },
+                        {
+                            "text": "Loyal, faithful.",
+                            "examples": [
+                                "He’s turned out to be a true friend."
+                            ]
+                        },
+                        {
+                            "text": "Genuine; legitimate.",
+                            "examples": [
+                                "This is true Parmesan cheese.",
+                                "The true king has returned!"
+                            ]
+                        },
+                        {
+                            "text": "Used in the designation of group of species, or sometimes a single species, to indicate that it belongs to the clade its common name (which may be more broadly scoped in common speech) is restricted to in technical speech, or to distinguish it from a similar species, the latter of which may be called false.",
+                            "examples": [
+                                "true sparrows ",
+                                "true spiders",
+                                "true blusher "
+                            ]
+                        },
+                        "(of an aim or missile in archery, shooting, golf, etc.) Accurate; following a path toward the target.",
+                        "(chiefly probability) Fair, unbiased, not loaded.",
+                        {
+                            "text": "(Of a literary genre) based on actual historical events.",
+                            "examples": [
+                                "true crimetrue romance"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "adverb",
+                    "text": [
+                        "#true (not comparable)",
+                        {
+                            "text": "(of shooting, throwing etc) Accurately.",
+                            "examples": [
+                                "this gun shoots true"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#true (countable and uncountable, plural trues)",
+                        "(uncountable) The state of being in alignment.",
+                        "(uncountable, obsolete) Truth.",
+                        "(countable, obsolete) A pledge or truce."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#true (third-person singular simple present trues, present participle trueing or truing, simple past and past participle trued)",
+                        {
+                            "text": "To straighten.",
+                            "examples": [
+                                "He trued the spokes of the bicycle wheel."
+                            ]
+                        },
+                        {
+                            "text": "To make even, level, symmetrical, or accurate, align; adjust.",
+                            "examples": [
+                                "We spent all night truing up the report."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ],
+        "golf": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#golf (uncountable)",
+                        "(sports) A ball game played by individuals competing against one another in which the object is to hit a ball into each of a series of (usually 18 or nine) holes in the minimum number of strokes.",
+                        "The letter G in the ICAO spelling alphabet."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#golf (third-person singular simple present golfs, present participle golfing, simple past and past participle golfed)",
+                        "(intransitive) To play the game of golf.",
+                        "(computing) To write something in as few characters as possible (e.g. in code golf, regex golf)"
+                    ]
+                }
+            ]
+        ],
+        "wave": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#wave (third-person singular simple present waves, present participle waving, simple past and past participle waved)",
+                        {
+                            "text": "(intransitive) To move back and forth repeatedly and somewhat loosely.",
+                            "examples": [
+                                "The flag waved in the gentle breeze."
+                            ]
+                        },
+                        "(intransitive) To move one’s hand back and forth (generally above the head) in greeting or departure.",
+                        {
+                            "text": "(transitive, metonymically) To call attention to, or give a direction or command to, by a waving motion, as of the hand; to signify by waving; to beckon; to signal; to indicate.",
+                            "examples": [
+                                "I waved goodbye from across the room."
+                            ]
+                        },
+                        "(intransitive) To have an undulating or wavy form.",
+                        "(transitive) To raise into inequalities of surface; to give an undulating form or surface to.",
+                        "(transitive) To produce waves to the hair.",
+                        {
+                            "text": "(intransitive, baseball) To swing and miss at a pitch.",
+                            "examples": [
+                                "Jones waves at strike one."
+                            ]
+                        },
+                        {
+                            "text": "(transitive) To cause to move back and forth repeatedly.",
+                            "examples": [
+                                "The starter waved the flag to begin the race."
+                            ]
+                        },
+                        "(transitive, metonymically) To signal (someone or something) with a waving movement.",
+                        "(intransitive, obsolete) To fluctuate; to waver; to be in an unsettled state.",
+                        "(intransitive, ergative) To move like a wave, or by floating; to waft."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#wave (plural waves)",
+                        {
+                            "text": "A moving disturbance in the level of a body of liquid; an undulation.",
+                            "examples": [
+                                "The wave traveled from the center of the lake before breaking on the shore."
+                            ]
+                        },
+                        "(poetic) The ocean.",
+                        {
+                            "text": "(physics) A moving disturbance in the energy level of a field.",
+                            "examples": [
+                                "Gravity waves, while predicted by theory for decades, have been notoriously difficult to detect."
+                            ]
+                        },
+                        {
+                            "text": "A shape that alternatingly curves in opposite directions.",
+                            "examples": [
+                                "Her hair had a nice wave to it.",
+                                "sine wave"
+                            ]
+                        },
+                        "Any of a number of species of moths in the geometrid subfamily Sterrhinae, which have wavy markings on the wings.",
+                        {
+                            "text": "A loose back-and-forth movement, as of the hands.",
+                            "examples": [
+                                "He dismissed her with a wave of the hand."
+                            ]
+                        },
+                        {
+                            "text": "(figurative) A sudden unusually large amount of something that is temporarily experienced.",
+                            "examples": [
+                                "A wave of shoppers stampeded through the door when the store opened for its Christmas discount special.",
+                                "A wave of retirees began moving to the coastal area.",
+                                "A wave of emotion overcame her when she thought about her son who was killed in battle."
+                            ]
+                        },
+                        "(video games, by extension) One of the successive swarms of enemies sent to attack the player in certain games.",
+                        "(usually \"the wave\") A group activity in a crowd imitating a wave going through water, where people in successive parts of the crowd stand and stretch upward, then sit."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#wave (third-person singular simple present waves, present participle waving, simple past and past participle waved)",
+                        "Obsolete spelling of waive"
+                    ]
+                }
+            ]
+        ],
+        "song": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#song (plural songs)",
+                        {
+                            "text": "A musical composition with lyrics for voice or voices, performed by singing.",
+                            "examples": [
+                                "Thomas listened to his favorite song on the radio yesterday."
+                            ]
+                        },
+                        "(by extension) Any musical composition.",
+                        "Poetical composition; poetry; verse.",
+                        "The act or art of singing.",
+                        {
+                            "text": "A melodious sound made by a bird, insect, whale or other animal.",
+                            "examples": [
+                                "I love hearing the song of canary birds."
+                            ]
+                        },
+                        "(ornithology) The distinctive sound that a male bird utters to attract a mate or to protect his territory; contrasts with call",
+                        {
+                            "text": "Something that costs only a little; chiefly in for a song.",
+                            "examples": [
+                                "He bought that car for a song."
+                            ]
+                        },
+                        "An object of derision; a laughing stock."
+                    ]
+                }
+            ]
+        ],
+        "a": [
+            [
+                {
+                    "part_of_speech": "letter",
+                    "text": [
+                        "#a (lower case, upper case A, plural a's)",
+                        "The first letter of the English alphabet, called a and written in the Latin script."
+                    ]
+                },
+                {
+                    "part_of_speech": "numeral",
+                    "text": [
+                        "#a (lower case, upper case A)",
+                        "The ordinal number first, derived from this letter of the English alphabet, called a and written in the Latin script."
+                    ]
+                },
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#a (plural aes)",
+                        "The name of the Latin script letter A/a."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "article",
+                    "text": [
+                        "#a (indefinite)",
+                        {
+                            "text": "One; any indefinite example of; used to denote a singular item of a group. [First attested prior to 1150]",
+                            "examples": [
+                                "There was a man here looking for you yesterday."
+                            ]
+                        },
+                        {
+                            "text": "Used in conjunction with the adjectives score, dozen, hundred, thousand, and million, as a function word.",
+                            "examples": [
+                                "I've seen it happen a hundred times."
+                            ]
+                        },
+                        {
+                            "text": "One certain or particular; any single. [First attested between around 1150 and 1350]",
+                            "examples": [
+                                "We've received an interesting letter from a Mrs. Miggins of London."
+                            ]
+                        },
+                        {
+                            "text": "The same; one. [16th Century]",
+                            "examples": [
+                                "We are of a mind on matters of morals."
+                            ]
+                        },
+                        {
+                            "text": "Any, every; used before a noun which has become modified to limit its scope; also used with a negative to indicate not a single one.",
+                            "examples": [
+                                "A man who dies intestate leaves his children troubles and difficulties.",
+                                "He fell all that way, and hasn't a bump on his head?"
+                            ]
+                        },
+                        "Used before plural nouns modified by few, good many, couple, great many, etc.",
+                        {
+                            "text": "Someone or something like; similar to; Used before a proper noun to create an example out of it.",
+                            "examples": [
+                                "The center of the village was becoming a Times Square."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "preposition",
+                    "text": [
+                        "#a",
+                        {
+                            "text": "(archaic) To do with position or direction; In, on, at, by, towards, onto. [First attested before 1150]",
+                            "examples": [
+                                "Stand a tiptoe."
+                            ]
+                        },
+                        {
+                            "text": "To do with separation; In, into. [First attested before 1150]",
+                            "examples": [
+                                "Torn a pieces."
+                            ]
+                        },
+                        {
+                            "text": "To do with time; Each, per, in, on, by. [First attested before 1150]",
+                            "examples": [
+                                "I brush my teeth twice a day."
+                            ]
+                        },
+                        "(obsolete) To do with method; In, with. [First attested before 1150]",
+                        {
+                            "text": "(obsolete) To do with role or capacity; In. [First attested before 1150]",
+                            "examples": [
+                                "A God’s name."
+                            ]
+                        },
+                        "To do with status; In. [First attested before 1150]",
+                        "(archaic) To do with process, with a passive verb; In the course of, experiencing. [First attested before 1150]",
+                        "(archaic) To do with an action, an active verb; Engaged in. [16th century]",
+                        "(archaic) To do with an action/movement; To, into. [16th century]"
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#a",
+                        {
+                            "text": "(archaic or slang) Have. [between 1150 and 1350, continued in some use until 1650; used again after 1950]",
+                            "examples": [
+                                "I'd a come, if you'd a asked."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "pronoun",
+                    "text": [
+                        "#a",
+                        "(obsolete outside England and Scotland dialects) He, or sometimes she, it. [1150-1900] (clarification of this definition is needed)"
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "interjection",
+                    "text": [
+                        "#a",
+                        "A meaningless syllable: ah."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "preposition",
+                    "text": [
+                        "#a",
+                        {
+                            "text": "(archaic or slang) Of.",
+                            "examples": [
+                                "The name of John a Gaunt."
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "adverb",
+                    "text": [
+                        "#a (not comparable)",
+                        "(chiefly Scotland) All. [First attested from 1350 to 1470.]"
+                    ]
+                },
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#a (not comparable)",
+                        "(chiefly Scotland) All. [First attested from 1350 to 1470.]"
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "symbol",
+                    "text": [
+                        "#a",
+                        "Distance from leading edge to aerodynamic center.",
+                        "specific absorption coefficient",
+                        "specific rotation",
+                        "allele (recessive)"
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "adverb",
+                    "text": [
+                        "#a",
+                        {
+                            "text": "(crosswords) across",
+                            "examples": [
+                                "Do you have the answer for 23a?"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "particle",
+                    "text": [
+                        "#a",
+                        "Alternative form of -a (“empty syllable added to songs, poetry, verse and other speech”)"
+                    ]
+                }
+            ]
+        ],
+        "xanthenic": [
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#xanthenic (not comparable)",
+                        "(organic chemistry) Pertaining to, or derived from, xanthene."
+                    ]
+                }
+            ]
+        ],
+        "organic chemistry": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#organic chemistry (uncountable)",
+                        "(chemistry) The chemistry of carbon-containing compounds, especially those that occur naturally in living organisms."
+                    ]
+                }
+            ]
+        ],
+        "organism": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#organism (plural organisms)",
+                        "(biology) A discrete and complete living thing, such as animal, plant, fungus or microorganism.",
+                        "(by extension) Any complex thing with properties normally associated with living things."
+                    ]
+                }
+            ]
+        ],
+        "complex": [
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#complex (comparative complexer or more complex, superlative complexest or most complex)",
+                        {
+                            "text": "Made up of multiple parts; composite; not simple.",
+                            "examples": [
+                                "a complex being; a complex idea"
+                            ]
+                        },
+                        "Not simple, easy, or straightforward; complicated.",
+                        {
+                            "text": "(mathematics, of a number) Having the form a + bi, where a and b are real numbers and i is (by definition) the imaginary square root of −1.",
+                            "examples": [
+                                "complex number",
+                                "function of a complex variable"
+                            ]
+                        },
+                        {
+                            "text": "(mathematics, mathematical analysis, of a function) Whose range is a subset of the complex numbers.",
+                            "examples": [
+                                "complex function"
+                            ]
+                        },
+                        {
+                            "text": "(mathematics, algebra) Whose coefficients are complex numbers; defined over the field of complex numbers.",
+                            "examples": [
+                                "complex polynomial",
+                                "complex algebraic variety"
+                            ]
+                        },
+                        "(geometry) A curve, polygon or other figure that crosses or intersects itself."
+                    ]
+                },
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#complex (plural complexes or complices)",
+                        "A problem. (clarification of this definition is needed)",
+                        {
+                            "text": "A network of interconnected systems.",
+                            "examples": [
+                                "military-industrial complex"
+                            ]
+                        },
+                        "A collection of buildings with a common purpose, such as a university or military base.",
+                        [
+                            "An assemblage of related things; a collection.",
+                            "An organized cluster of thunderstorms.",
+                            {
+                                "text": "A cluster of wildfires burning in the same vicinity.",
+                                "examples": [
+                                    "The fire complex began as two separate fires."
+                                ]
+                            },
+                            "(taxonomy) A group of closely related species, often distinguished only with difficulty by traditional morphological methods."
+                        ],
+                        "(psychoanalysis) An abnormal mental condition caused by repressed emotions.",
+                        {
+                            "text": "(informal, by extension) A vehement, often excessive psychological dislike or fear of a particular thing.",
+                            "examples": [
+                                "Jim has a real complex about working for a woman boss."
+                            ]
+                        },
+                        "(chemistry) A structure consisting of a central atom or molecule weakly connected to surrounding atoms or molecules.",
+                        "(mathematics) A complex number."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#complex (third-person singular simple present complexes, present participle complexing, simple past and past participle complexed)",
+                        "(chemistry, intransitive) To form a complex with another substance",
+                        "(transitive) To complicate."
+                    ]
+                }
+            ]
+        ],
+        "interconnected": [
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#interconnected (comparative more interconnected, superlative most interconnected)",
+                        "intertwined; connected at multiple points or levels"
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#interconnected",
+                        "simple past tense and past participle of interconnect"
+                    ]
+                }
+            ]
+        ],
+        "coiled": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#coiled",
+                        "simple past tense and past participle of coil"
+                    ]
+                },
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#coiled (comparative more coiled, superlative most coiled)",
+                        {
+                            "text": "In the form of coils; having coils.",
+                            "examples": [
+                                "a coiled serpent"
+                            ]
+                        },
+                        "Prepared and poised to act, like a snake that has coiled its lower body so it can strike."
+                    ]
+                }
+            ]
+        ],
+        "doctrine": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#doctrine (countable and uncountable, plural doctrines)",
+                        {
+                            "text": "(countable) A belief or tenet, especially about philosophical or theological matters.",
+                            "examples": [
+                                "The incarnation is a basic doctrine of classical Christianity.",
+                                "The four noble truths summarise the main doctrines of Buddhism."
+                            ]
+                        },
+                        {
+                            "text": "(countable and uncountable) The body of teachings of an ideology, most often a religion, or of an ideological or religious leader, organization, group or text.",
+                            "examples": [
+                                "What is the understanding of marriage and family in orthodox Marxist doctrine?"
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ],
+        "belief": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#belief (countable and uncountable, plural beliefs)",
+                        {
+                            "text": "Mental acceptance of a claim as true.",
+                            "examples": [
+                                "It's my belief that the thief is somebody known to us."
+                            ]
+                        },
+                        {
+                            "text": "Faith or trust in the reality of something; often based upon one's own reasoning, trust in a claim, desire of actuality, and/or evidence considered.",
+                            "examples": [
+                                "My belief is that there is a bear in the woods. Bill said he saw one.",
+                                "Based on this data, it is our belief that X does not occur."
+                            ]
+                        },
+                        {
+                            "text": "(countable) Something believed.",
+                            "examples": [
+                                "The ancient people have a belief in many deities."
+                            ]
+                        },
+                        {
+                            "text": "(uncountable) The quality or state of believing.",
+                            "examples": [
+                                "My belief that it will rain tomorrow is strong."
+                            ]
+                        },
+                        {
+                            "text": "(uncountable) Religious faith.",
+                            "examples": [
+                                "She often said it was her belief that carried her through the hard times."
+                            ]
+                        },
+                        {
+                            "text": "(in the plural) One's religious or moral convictions.",
+                            "examples": [
+                                "I don't want to do a no-fault divorce on my husband and steal from him under color of law. It's against my beliefs."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ],
+        "certainty": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#certainty (countable and uncountable, plural certainties)",
+                        "The state of being certain.",
+                        "An instance of being certain.",
+                        "A fact or truth unquestionably established."
+                    ]
+                }
+            ]
+        ],
+        "pregnant": [
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#pregnant (comparative more pregnant, superlative most pregnant)",
+                        [
+                            {
+                                "text": "(chiefly not comparable) Carrying developing offspring within the body.",
+                                "examples": [
+                                    "I went to the doctor and, guess what, I'm pregnant!"
+                                ]
+                            },
+                            {
+                                "text": "(of a couple) Expecting a baby together.",
+                                "examples": [
+                                    "We are pregnant."
+                                ]
+                            }
+                        ],
+                        {
+                            "text": "(comparable) Having numerous possibilities or implications; full of promise; abounding in ability, resources, etc.",
+                            "examples": [
+                                "a pregnant pause"
+                            ]
+                        },
+                        "(now poetic) Fertile, prolific (usually of soil, ground etc.).",
+                        "(obsolete) Affording entrance; receptive; yielding; willing; open; prompt.",
+                        "(obsolete) Ready-witted; clever; ingenious."
+                    ]
+                },
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#pregnant (plural pregnants)",
+                        "A pregnant person."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#pregnant (comparative more pregnant, superlative most pregnant)",
+                        "(now rare) Compelling; clear, evident. [from 14th c.]"
+                    ]
+                }
+            ]
+        ],
+        "interesting condition": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#interesting condition (plural interesting conditions)",
+                        "(euphemistic, archaic) Pregnancy [from mid-18th c.]"
+                    ]
+                }
+            ]
+        ],
+        "covert": [
+            [
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#covert (comparative more covert, superlative most covert)",
+                        "(now  rare) Hidden, covered over; overgrown, sheltered.",
+                        "(figurative) Secret, surreptitious, concealed."
+                    ]
+                },
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#covert (plural coverts)",
+                        "A covering.",
+                        "A disguise.",
+                        "A hiding place.",
+                        "Area of thick undergrowth where animals hide.",
+                        "(ornithology) A feather that covers the bases of flight feathers."
+                    ]
+                }
+            ]
+        ],
+        "vector": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#vector (plural vectors)",
+                        "(mathematics) A directed quantity, one with both magnitude and direction; the signed difference between two points.",
+                        "(mathematics) An ordered tuple representing a directed quantity or the signed difference between two points.",
+                        "(mathematics) Any member of a (generalized) vector space.",
+                        "(aviation) A chosen course or direction for motion, as of an aircraft.",
+                        "(epidemiology) A carrier of a disease-causing agent.",
+                        "(sociology) A person or entity that passes along an urban legend or other meme.",
+                        "(psychology) A recurring psychosocial issue that stimulates growth and development in the personality.",
+                        "The way in which the eyes are drawn across the visual text. The trail that a book cover can encourage the eyes to follow from certain objects to others.(Can we add an example for this sense?)",
+                        "(computing, operating systems) A memory address containing the address of a code entry point, usually one which is part of a table and often one that is dereferenced and jumped to during the execution of an interrupt.",
+                        "(programming) A one-dimensional array.",
+                        {
+                            "text": "(computer graphics, attributive) A graphical representation using outlines; vector graphics.",
+                            "examples": [
+                                "a vector image",
+                                "vector graphics"
+                            ]
+                        },
+                        "(molecular biology) A DNA molecule used to carry genetic information from one organism into another."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#vector (third-person singular simple present vectors, present participle vectoring, simple past and past participle vectored)",
+                        "To set (particularly an aircraft) on a course toward a selected point.",
+                        "(computing) To redirect to a vector, or code entry point."
+                    ]
+                }
+            ]
+        ],
+        "DNA": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#DNA (countable and uncountable, plural DNAs)",
+                        "(informal) The part of a living being that carries genetic information.",
+                        "(biochemistry) A biopolymer of deoxyribonucleic acid (a type of nucleic acid) that has four different chemical groups, called bases: adenine, guanine, cytosine, and thymine.",
+                        "(figurative, business) The fundamental values or vision of an organization."
+                    ]
+                },
+                {
+                    "part_of_speech": "proper noun",
+                    "text": [
+                        "#DNA",
+                        "Defense Nuclear Agency."
+                    ]
+                },
+                {
+                    "part_of_speech": "phrase",
+                    "text": [
+                        "#DNA",
+                        "Did not answer",
+                        "Did not arrive (used when someone fails to keep an appointment)",
+                        "Did not attend",
+                        "Do not assume",
+                        "Does not apply",
+                        "Drugs 'n' alcohol",
+                        "(US, military) Do not arm."
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#DNA (third-person singular simple present DNAs, present participle DNAing, simple past and past participle DNAed)",
+                        "To examine a sample of (someone's) deoxyribonucleic acid.",
+                        "(US, military) To put under a DNA order because of mental illness."
+                    ]
+                }
+            ]
+        ],
+        "terminal": [
+            [
+                {
+                    "part_of_speech": "noun",
+                    "text": [
+                        "#terminal (plural terminals)",
+                        "A building in an airport where passengers transfer from ground transportation to the facilities that allow them to board airplanes.",
+                        "A harbour facility where ferries embark and disembark passengers and load and unload vehicles.",
+                        "A rail station where service begins and ends; the end of the line. For example: Grand Central Terminal in New York City.",
+                        "A rate charged on all freight, regardless of distance, and supposed to cover the expenses of station service, as distinct from mileage rate, generally proportionate to the distance and intended to cover movement expenses.",
+                        "A town lying at the end of a railroad, in which the terminal is located; more properly called a terminus.",
+                        "A storage tank for bulk liquids (such as oil or chemicals) prior to further distribution.",
+                        "(electronics) the end of a line where signals are either transmitted or received, or a point along the length of a line where the signals are made available to apparatus.",
+                        "An electric contact on a battery.",
+                        "(telecommunications) The apparatus to send and/or receive signals on a line, such as a telephone or network device.",
+                        "(computing) A device for entering data into a computer or a communications system and/or displaying data received, especially a device equipped with a keyboard and some sort of textual display.",
+                        "(computing) A computer program that emulates a physical terminal.",
+                        "(computing theory) A terminal symbol in a formal grammar.",
+                        "(biology) The end ramification (of an axon, etc.) or one of the extremities of a polypeptid."
+                    ]
+                },
+                {
+                    "part_of_speech": "adjective",
+                    "text": [
+                        "#terminal (comparative more terminal, superlative most terminal)",
+                        {
+                            "text": "Fatal; resulting in death.",
+                            "examples": [
+                                "terminal cancer"
+                            ]
+                        },
+                        "Appearing at the end; top or apex of a physical object.",
+                        "Occurring at the end of a word, sentence, or period of time, and serves to terminate it",
+                        {
+                            "text": "(archaic) Occurring every term; termly.",
+                            "examples": [
+                                "a student's terminal fees"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "#terminal (third-person singular simple present terminals, present participle terminaling or terminalling, simple past and past participle terminaled or terminalled)",
+                        "To store bulk liquids (such as oil or chemicals) in storage tanks prior to further distribution."
+                    ]
+                }
+            ]
+        ]
+    },
+    "ro": {
+        "salut": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "formulă sau gest de politețe cu care se salută.",
+                        "alocuțiune cu care se salută o adunare, un oaspete oficial."
+                    ]
+                }
+            ]
+        ],
+        "a": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "(literă minusculă) prima literă a alfabetului român, situată înainte de litera b.",
+                        "sunet notat cu această literă (vocală deschisă nerotunjită medială)."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "De la a la z = de la început până la sfârșit; totul, în întregime"
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "interjecție",
+                    "text": [
+                        "exclamație care exprimă surprindere, admirație, entuziasm, plăcere, satisfacție, necaz, supărare, regret, indignare, reamintirea bruscă a unui lucru omis."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "articol",
+                    "text": [
+                        "forma de feminin singular pentru al.",
+                        "forma de masculin plural pentru al.",
+                        "forma de feminin plural pentru al."
+                    ]
+                }
+            ]
+        ],
+        "acuarelă": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "tehnică picturală în care sunt întrebuințate culori diluate cu apă.",
+                        "vopsea solidă care se întrebuințează în acuarelă.",
+                        "pictură executată în acuarelă."
+                    ]
+                }
+            ]
+        ],
+        "executa": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        {
+                            "text": "(v.tranz.) a face, a confecționa, a fabrica, a prelucra, a efectua.",
+                            "examples": [
+                                "A executa un obiect.",
+                                "Executez o lucrare durabilă."
+                            ]
+                        },
+                        {
+                            "text": "(v.refl.) a face ceea ce i s-a spus.",
+                            "examples": [
+                                "Am executat tot ce mi-ai dat de făcut."
+                            ]
+                        },
+                        "(v.tranz.) a face exerciții de gimnastică sau figuri de balet.",
+                        "a cânta o bucată muzicală.",
+                        "(v.tranz.) a sili pe debitor sa-și îndeplinească obligațiile.",
+                        {
+                            "text": "a aduce la îndeplinire o hotărâre judecătorească, un act al autorității, o măsură etc.",
+                            "examples": [
+                                "A executa o hotărâre judecătorească."
+                            ]
+                        },
+                        "(v.refl.) a se supune, a da ascultare.",
+                        "a supune un condamnat la pedeapsa cu moartea; a aduce la îndeplinire o hotărâre de condamnare la moarte."
+                    ]
+                }
+            ]
+        ],
+        "bucată": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "parte tăiată, ruptă, desfăcută dintr-un corp solid, dintr-un întreg; dărab.",
+                        "(determinat prin „de drum”, „de cale” sau presupunând această determinare) distanță, porțiune.",
+                        "(determinat prin „de vreme”, „de timp” sau presupunând această determinare) interval, perioadă.",
+                        "(în limbajul comercial și în cel industrial) exemplar, piesă, parte, unitară dintr-un ansamblu, dintr-o mulțime de obiecte de același fel.",
+                        "operă (sau fragment unitar) literară sau muzicală de dimensiuni relativ reduse.",
+                        "(la pl.) (feluri de) mâncare.",
+                        "(pop.) (recoltă de) grâne, cereale."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "A vinde(sau a cumpăra) cu bucata = a vinde (sau a cumpăra) cu amănuntul, în detaliu",
+                        "A plăti cu bucata (sau, rar bucată) = a plăti munca după numărul de piese executate; a plăti în acord",
+                        "A face ceva din bucăți = a confecționa, a încropi ceva din părți sau piese care provin din ansambluri diferite",
+                        "Om dintr-o bucată = om integru",
+                        "A face(cuiva) bucata = a face (cuiva) cu intenție un lucru neplăcut, un rău, a-i provoca o încurcătură"
+                    ]
+                }
+            ]
+        ],
+        "mâncare": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        {
+                            "text": "acțiunea de a mânca și rezultatul ei.",
+                            "examples": [
+                                "În timpul mâncării."
+                            ]
+                        },
+                        "(abstract) prânz, cină, masă.",
+                        {
+                            "text": "(concr.) ceea ce se mănâncă.",
+                            "examples": [
+                                "Ce mâncare ai luat la drum?"
+                            ]
+                        },
+                        "(fig.) (fam. și depr.) soi, fel."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "Poftă de mâncare = apetit",
+                        "De mâncare sau de-ale mâncării = hrană, alimente",
+                        "A strica mâncarea degeaba = a trăi degeaba, fără a fi de vreun folos, a nu fi bun de nimic",
+                        "A o duce într-o mâncare și într-o băutură = a petrece, a chefui întruna",
+                        "Asta-i altă mâncare (de pește) = asta e cu totul altceva",
+                        "A fi tot o mâncare de pește = a fi același lucru, a fi totuna"
+                    ]
+                }
+            ]
+        ],
+        "masă": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "mulțime compactă de oameni, considerată ca o unitate; grupare mare de oameni cu anumite caractere comune; cercuri largi ale populației.",
+                        "îngrămădire de elemente (de aceeași natură ori diferite) care alcătuiesc împreună un singur corp; (totalitatea unui) corp format printr-o asemenea îngrămădire de elemente.",
+                        "cantitate mare din ceva (în raport cu restul ansamblului).",
+                        "corp solid, compact; bloc.",
+                        "(fiz.) cantitatea de materie a unui corp considerată ca o mărime caracteristică (în raport cu volumul).",
+                        "(jur.) totalitate a creditelor sau datoriilor unui falit; fond bănesc al unei succesiuni sau al unei întreprinderi lucrative."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "mobilă formată dintr-o placă dreptunghiulară, pătrată sau rotundă, sprijinită pe unul sau mai multe picioare și pe care se mănâncă, se scrie etc.",
+                        "(cu sens colectiv) persoanele care stau în jurul aceleiași mese și mănâncă; mesenii.",
+                        "ceea ce se mănâncă; mâncare, bucate; (p.ext.) prânz, cină; ospăț, banchet.",
+                        "nume dat mai multor obiecte sau părți de obiecte care seamană cu o masă și se folosesc în diverse scopuri practice."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "Capul  (sau fruntea)  mesei = locul de cinste ocupat de unul dintre comeseni",
+                        "A pune  (sau a întinde, a așterne)  masa = a aranja, a pregăti și a pune pe masă toate cele necesare pentru a servi mâncarea",
+                        "A strânge masa = a aduna de pe masă mâncările rămase și farfuriile, tacâmurile etc. cu care s-a mâncat",
+                        "A nu avea ce pune pe masă = a nu avea cu ce trăi, a fi sărac",
+                        "Pune-te  (sau întinde-te) masă, scoală-te  (sau ridică-te) masă = a) se spune despre cei care duc o viață plină de desfătări, care trăiesc fără griji, care așteaptă totul de-a gata; b) se spune când ești obligat să servești mereu de mâncare",
+                        "A întinde masă mare sau a ține masă întinsă = a primi invitați mulți, a oferi ospețe, banchete; p.ext. a se ține de petreceri",
+                        "A pune  (pe cineva) la masă cu tine = a trata (pe cineva) ca pe un prieten apropiat",
+                        "A lua masa sau a sta  (ori a ședea) la masă = a mânca de prânz sau de cină",
+                        "A avea casă și masă = a avea ce-i trebuie pentru a trăi",
+                        "A-i fi  (cuiva) casa casă și masa masă = a duce o viață ordonată, fără necazuri"
+                    ]
+                }
+            ]
+        ],
+        "corp": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "#I.",
+                        {
+                            "text": "totalitatea organelor unei ființe vii; organismul considerat ca un întreg anatomic și funcțional; trup.",
+                            "examples": [
+                                "Sufletul și corpul."
+                            ]
+                        },
+                        "cadavru.",
+                        {
+                            "text": "denumire a unor structuri anatomice.",
+                            "examples": [
+                                "Omul este alcătuit din cap, gât, corp și membre.",
+                                "Corp galben."
+                            ]
+                        },
+                        "partea principală a unui obiect, a unei construcții, a unei mașini etc.",
+                        "conținutul unei scrisori (fără formula de introducere și de încheiere și fără adresă); cuprinsul unei cărți.",
+                        "(fiz.) agregat de molecule, porțiune de materie cu masă diferită de zero.",
+                        "(chim.) substanța definită (organică sau anorganică).",
+                        "#II.",
+                        "totalitatea persoanelor care, prin funcție sau prin profesiune, formează o unitate deosebită, legal constituită.",
+                        "(cu determinări introduse de prepozitia \"de\") mare [unitate] militară, cuprinzând mai multe divizii, de obicei de aceeași categorie.\nCorp de aviație."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "A face corp cu cineva = a se uni, a se asocia cu cineva",
+                        "Corp de casă (sau de case) = clădire, casă mare (cu mai multe apartamente sau aripi"
+                    ]
+                }
+            ]
+        ],
+        "denumire": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        {
+                            "text": "faptul de a denumi; numire.",
+                            "examples": [
+                                "♦ Nume dat unei ființe sau unui lucru; cuvânt cu care numim ceva."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ],
+        "cuvânt": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        {
+                            "text": "unitate de bază a vocabularului, care reprezintă asocierea unui sens (sau a unui complex de sensuri) și a unui complex sonor.",
+                            "examples": [
+                                "Un cuvânt nou intrat în limbă."
+                            ]
+                        },
+                        "gând, idee exprimată prin vorbe.",
+                        "subiect de vorbă, de povestire, istorisire.",
+                        "cuvântare, discurs, conferință.",
+                        "învățătură, îndrumare, sfat: p. ext. dispoziție, ordin.",
+                        "promisiune, făgăduială.",
+                        "părere, opinie exprimată.",
+                        "libertate, drept de a revendica ceva.",
+                        "(mai ales la pl.) discuție, ceartă, ciorovăială.",
+                        "motiv, rațiune, cauză.",
+                        "(înv.) știre, veste, informație.",
+                        "(înv.) înțelegere, pact, acord, convenție.",
+                        "(rar) facultatea de a vorbi.",
+                        "(inform.) format standard în care se înscriu datele și instrucțiunile la (mini)calculatoare."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "A nu găsi (sau a nu avea) cuvinte = a nu fi în stare (sub impulsul unor stări afective puternice) să exprimi ceea ce gândești",
+                        "Cu alte cuvinte = a) exprimând același lucru altfel; b) deci, prin urmare, așadar",
+                        "Într-un (sau cu un) cuvânt = pe scurt, în concluzie, deci, așadar",
+                        "În puține cuvinte = pe scurt, în rezumat",
+                        "Cuvânt cu (sau de) cuvânt = fără nici o modificare, exact, fidel. Dintr-un cuvânt = imediat, numaidecât",
+                        "A pune un cuvânt (bun) = a interveni (favorabil) pentru cineva",
+                        "În (toată) puterea cuvântului = în înțelesul adevărat, pe deplin, cu desăvârșire",
+                        "A tăia (sau a curma) cuiva cuvântul = a întrerupe pe cineva din vorbă",
+                        "(reg.) A începe cuvânt = a începe vorba, a spune",
+                        "A cere (sau a da, a avea) cuvântul (într-o sedință, într-o adunare) = a cere (sau a da cuiva etc.) dreptul de a vorbi",
+                        "A lua cuvântul = a vorbi (într-o adunare)",
+                        "A-i lua cuiva cuvântul = a interzice cuiva să-și mai continue afirmațiile (într-o adunare)",
+                        "A înțelege (sau a ști) de cuvânt = a asculta de spusele, de sfaturile cuiva",
+                        "Om de cuvânt = om care își ține făgăduielile",
+                        "Cuvânt de onoare (sau de cinste, de om) = promisiune sau asigurare care angajează cinstea cuiva",
+                        "A(-și) da cuvântul (de onoare) = a se angaja în mod hotărât că va face cu orice preț ceva",
+                        "(A crede) pe cuvânt = (a crede) fără a mai controla exactitatea spuselor",
+                        "A-și ține cuvântul sau a se ține de cuvânt = a-și îndeplini o promisiune făcută",
+                        "Schimb de cuvinte = discuție aprinsă, ceartă, sfadă",
+                        "(reg.) Nu-i cuvânt = e indiscutabil",
+                        "Cu drept cuvânt = pe bună dreptate, la drept vorbind"
+                    ]
+                }
+            ]
+        ],
+        "facultate": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "capacitate, posibilitate, însușire morală sau intelectuală a cuiva; aptitudine.",
+                        "însușire, capacitate pe care o are un fenomen, un obiect, un sistem etc. de a acționa, a se dezvolta, a realiza ceva.",
+                        "unitate didactică și administrativă în cadrul unei instituții de învățământ superior, condusă de un decan și cuprinzând un ansamblu de discipline înrudite între ele, pentru pregătirea studenților și a doctoranzilor într-un anumit domeniu de specialitate."
+                    ]
+                }
+            ]
+        ],
+        "cadru": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "ramă în care se fixează un tablou, o fotografie etc.",
+                        "tablou, fotografie etc. înrămate.",
+                        "(fig.) persoană foarte frumoasă.",
+                        "pervaz al unei uși sau al unei ferestre.",
+                        "deschizătură a zidului ocupată de o ușă sau de o fereastră.",
+                        "desen care înconjură, mărginește un text, o hartă, o fotografie etc.",
+                        "porțiune a unei mărci poștale pe care este executat desenul.",
+                        "(fig.) mediu, ambianță.",
+                        "spațiu în limitele căruia este cuprinsă o imagine pe o peliculă cinematografică.",
+                        "(fig.) limitele unei probleme, ale unui subiect, ale unei acțiuni etc.; (p.ext.) cuprinsul dintre aceste limite.",
+                        "schelet alcătuit din bare de lemn, de metal sau din grinzi de beton armat, care se întrebuințează la construcții; suport pentru diferite aparate.",
+                        "schelet pe care sunt înfășurate conducte (electrice, radiofonice etc.) izolate.",
+                        "(la pl.) efectiv de bază al salariaților dintr-o întreprindere sau dintr-o instituție, dintr-un sindicat etc.; elementele de conducere și de comandă ale subunităților și unităților militare; (p.gener.) întregul efectiv al unei întreprinderi sau al unei instituții.",
+                        "(rar) persoană din efectivul unei întreprinderi sau instituții, dintr-o organizație etc.",
+                        "(ieșit din uz; la pl.) subdiviziune în administrația internă a unei instituții, întreprinderi etc. care se ocupă cu angajarea personalului., cu evidența lui etc.; serviciul personal.",
+                        "(astăzi rar; la pl.) serviciu care se ocupă cu angajarea și evidența personalului unei întreprinderi, instituții etc."
+                    ]
+                }
+            ]
+        ],
+        "serviciu": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "acțiunea, faptul de a servi, de a sluji; formă de muncă prestată în folosul sau în interesul cuiva.",
+                        "(în construcție cu verbele „a face”, „a aduce”) faptă, acțiune care servește, avantajează pe cineva; îndatorire, obligație.",
+                        "ocupație pe care o are cineva în calitate de angajat; slujbă.",
+                        "îndatorire care revine cuiva în calitate de angajat; îndeplinirea acestei îndatoriri.",
+                        {
+                            "text": "funcție.",
+                            "examples": [
+                                "Serviciu de casier."
+                            ]
+                        },
+                        "subdiviziune în administrația internă a unei instituții, întreprinderi etc. cuprinzând mai multe secții; (p.ext.) colectivul de muncă corespunzător.",
+                        {
+                            "text": "grup de obiecte care alcătuiesc un tot cu destinație specială.",
+                            "examples": [
+                                "Serviciu de cafea."
+                            ]
+                        },
+                        "mulțime ordonată în timp a regimurilor succesive ale unui sistem tehnic.",
+                        "(sport) punere în joc a mingii."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "A fi (sau a se pune) în serviciul cuiva (sau a ceva) = a sluji, a servi unei persoane sau unui scop, unei idei etc",
+                        "A face un prost (sau un rău)  serviciu cuiva = a face cuiva (fără voie) un rău",
+                        "(despre angajați, ostași, elevi) (a fi)  de serviciu = (a fi) însărcinat cu o misiune specială în cadrul obligațiilor profesionale",
+                        "A intra în serviciu = a deveni salariat"
+                    ]
+                }
+            ]
+        ],
+        "mulțime": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "(la sg., adesea cu determinări) număr mare de ființe sau de lucruri, cantitate mare.",
+                        "(la sg.) lume multă strânsă laolaltă, grămadă de oameni; (spec.) masele largi ale populației; colectivitate.",
+                        "(mat.) ansamblu de obiecte, numite elemente, grupate fie prin indicarea tuturor elementelor, fie prin formularea unei proprietăți caracteristice lor și numai lor."
+                    ]
+                }
+            ]
+        ],
+        "numit": [
+            [
+                {
+                    "part_of_speech": "adjectiv",
+                    "text": [
+                        "care poartă numele sau porecla de..., cu numele de..., al cărui nume este...",
+                        "care a fost citat mai înainte, al cărui nume s-a pomenit mai înainte.",
+                        "(înv.) cunoscut, renumit, celebru."
+                    ]
+                }
+            ]
+        ],
+        "vesti": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        "(v.tranz.) a aduce la cunoștință, a face cunoscut; a înștiința, a anunța, a informa.",
+                        "(v.tranz.) a face să se prevadă; a prevesti.",
+                        "(v.refl.) a-și face cunoscută, simțită existență sau prezența.",
+                        "(v.refl.) (înv.) a deveni vestit, faimos.",
+                        "(v.tranz.) a socoti pe cineva drept..., a considera ca...; a aprecia."
+                    ]
+                }
+            ]
+        ],
+        "drept": [
+            [
+                {
+                    "part_of_speech": "adjectiv",
+                    "text": [
+                        {
+                            "text": "care merge de la un punct la altul fără ocol, fără abatere.",
+                            "examples": [
+                                "Merge drept la birou."
+                            ]
+                        },
+                        {
+                            "text": "(fig.) (despre privire) care este fără ascunzișuri; deschis, direct.",
+                            "examples": [
+                                "A ajuns drept la timp."
+                            ]
+                        },
+                        "(despre haine) care are o croială simplă, fără cute, clini etc.",
+                        "(despre lucruri, ființe, părți ale lor etc.) care are o poziție verticală (față de un punct de reper).",
+                        "(despre terenuri înclinate, forme de relief sau părți ale lor) aproape vertical; abrupt, povârnit.",
+                        "(despre litere; adesea substantivat, f.) care are tăietura verticală.",
+                        "care are o poziție orizontală (față de un punct de reper); orizontal; plan, neted.",
+                        "(fig.) (despre acțiuni ale omului sau despre noțiuni abstracte) care este, se face etc. potrivit dreptății și adevărului; întemeiat, just, cinstit, bun.",
+                        "(adverbial) în conformitate cu dreptatea, just; în conformitate cu adevărul, adevărat; corect.",
+                        "(despre oameni) care trăiește și lucrează conform dreptății, adevărului, omeniei, binelui; cinstit, integru, cumsecade.",
+                        "(în limbajul bisericesc) cuvios, cucernic.",
+                        "(reg.; despre bunuri materiale) care aparține sau se cuvine cuiva pe temeiul unei legi sau al unei recunoașteri oarecare.",
+                        "(pop.; despre rude) care este legat de cineva prin legături directe, de sânge; adevărat, bun.",
+                        "(în opoziție cu stâng) (despre organe ale corpului) așezat în partea opusă părții corpului omenesc în care se află inima.",
+                        "care se află de partea sau în direcția mâinii drepte (când cineva stă cu fața în direcția în care este orientat un lucru) aripa dreaptă a clădirii.",
+                        "(substantivat; în locuțiuni)"
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        {
+                            "text": "A se ține drept = a avea o poziție perfect verticală",
+                            "examples": [
+                                "Merge drept la birou."
+                            ]
+                        },
+                        {
+                            "text": "(mil.) A lua (sau a sta, a se ține în) poziția de drepți = a lua (sau a sta, a se ține în) poziție perfect verticală, stând nemișcat",
+                            "examples": [
+                                "A ajuns drept la timp."
+                            ]
+                        },
+                        "(cu valoare de interjecție) Drepți! = formulă de comandă militară pentru luarea poziției de drepți",
+                        "(adverbial) A călca drept = a avea o purtare bună, cinstită",
+                        "A sta drept = a avea o atitudine de neclintit, a fi dârz, curajos",
+                        "Ce-i drept = într-adevăr, cu adevărat",
+                        "Ce-i drept e drept, = se spune pentru a recunoaște un adevăr incontestabil",
+                        "Drept că... = adevărat că..",
+                        "A spune drept = a spune adevărul; a vorbi deschis, sincer",
+                        "(substantivat) La drept (sau la dreptul) vorbind = în realitate, de fapt",
+                        "(substantivat) A se odihni cu drepții = a fi mort",
+                        "A fi mâna dreaptă a cuiva sau brațul drept al cuiva = a fi cel mai intim, cel mai apropiat colaborator al cuiva; a-i fi cuiva de mare ajutor",
+                        "(substantivat) În dreapta și în stânga sau de-a dreapta și de-a stânga = în ambele părți; în toate părțile, pretutindeni",
+                        "A ține dreapta = a merge pe partea dreaptă a unui drum"
+                    ]
+                },
+                {
+                    "part_of_speech": "adverb",
+                    "text": [
+                        {
+                            "text": "(urmat de determinări locale, indică direcția) în linie dreaptă, fără ocol; direct.",
+                            "examples": [
+                                "Drept penal."
+                            ]
+                        },
+                        "(urmat de determinări locale, modale sau temporale) tocmai, exact."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        {
+                            "text": "De-a dreptul = fără a se abate din drum, fără înconjur; în mod direct, nemijlocit; chiar",
+                            "examples": [
+                                "Drept penal."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "totalitatea regulilor și normelor juridice care reglementează relațiile sociale dintr-un stat.",
+                        "știință sau disciplină care studiază dreptul.",
+                        "putere, prerogativă legal recunoscută unei persoane de a avea o anumită conduită, de a se bucura de anumite privilegii etc.; drit.",
+                        "răsplată, retribuție care i se cuvine cuiva pentru prestarea unei munci."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "Drept care... = prin urmare, în concluzie, deci, așadar",
+                        "A i se pune soarele drept în inimă = a i se face foame"
+                    ]
+                }
+            ]
+        ],
+        "cuvios": [
+            [
+                {
+                    "part_of_speech": "adjectiv",
+                    "text": [
+                        "cucernic, evlavios, pios.",
+                        "(adesea substantivat) titlu care se dă călugărilor și călugărițelor.",
+                        "(înv.) cuviincios."
+                    ]
+                },
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "( în religia creștină) nume dat sfinților proveniți din călugări care nu au fost martiri."
+                    ]
+                }
+            ]
+        ],
+        "frunte": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "(la oameni) partea superioară a feței, formată din osul frontal, cuprinsă între sprâncene și păr și mărginită lateral de tâmple; (la animale) partea dinainte a capului, imediat deasupra ochilor.",
+                        "cap; față, chip.",
+                        "(fig.) (adesea articulat) tot ce e mai bun, mai ales, mai de seamă, ceea ce e de calitate superioară; persoană care se distinge, care se relevă primul (dintre alții).",
+                        "lichid obținut la începutul unei distilări fracționate."
+                    ]
+                }
+            ]
+        ],
+        "fracționat": [
+            [
+                {
+                    "part_of_speech": "adjectiv",
+                    "text": [
+                        "divizat în fracțiuni; îmbucătățit."
+                    ]
+                }
+            ]
+        ],
+        "prim": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "(reg.) garnitură din blană (neagră, de miel) aplicată pe marginea căciulilor, a pieptarelor, a hainelor."
+                    ]
+                }
+            ],
+            [
+                {
+                    "part_of_speech": "numeral",
+                    "text": [
+                        "(num.ord.) (adesea cu valoare de adjectiv) cel dintâi (în spațiu sau în timp); care se află la început, în fruntea unei serii; întâi, dintâi.",
+                        "(num.ord.) (cu valoare adverbială, la f.; fam.) mai întâi; primo.",
+                        "(num.ord.) care este înaintea tuturor în privința însemnătății, a rangului, a calităților; important, principal.",
+                        {
+                            "text": "(num.ord.) (ca element de compunere, precedând un termen care indică o funcție sau un grad ierarhic) pe treapta cea mai înaltă, întâiul în categoria respectivă.",
+                            "examples": [
+                                "Prim-solist."
+                            ]
+                        },
+                        "(num.ord.) (despre instrumente, voci, instrumentiști) care execută melodia principală, dominantă."
+                    ]
+                }
+            ]
+        ],
+        "căciulă": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "obiect confecționat din blană de oaie sau de alt animal și care servește la acoperirea capului.",
+                        {
+                            "text": "(fig.) om, persoană, individ.",
+                            "examples": [
+                                "Câte cinci lei de căciulă."
+                            ]
+                        },
+                        "obiect în formă de căciulă (care servește ca acoperământ pentru coșuri, canale etc.).",
+                        "partea superioară a ciupercii."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "A-și lua (sau a-și scoate) căciula (de pe cap) = a-și descoperi capul în semn de salut sau de respect",
+                        "La așa cap, așa căciulă = cum e omul, așa e și purtarea lui",
+                        "A-i ieși (cuiva) părul prin căciulă  = a) a i se urî așteptând; b) a o duce greu; a sărăci",
+                        "A fi(sau a se ști, a se simți) cu musca pe căciulă = a se simți vinovat",
+                        "(Asta sau aia e) altă căciulă = (aceasta e) altceva, altă socoteală",
+                        "A da cu căciula în câini = a fi cu chef, a-și face de cap",
+                        "(Bun de) să dai cu căciula-n câini = foarte gustos",
+                        "Bună ziua căciulă (că stăpânu-tău n-are gură)! = se spune, în bătaie de joc, unuia care nu salută"
+                    ]
+                }
+            ]
+        ],
+        "prim-ministru": [],
+        "serie": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "înșiruire de termeni care se succedă potrivit unei anumite legi; succesiune neîntreruptă de lucruri, de fapte etc. de același fel, care formează un ansamblu sau care sunt considerate astfel; șir; (p.ext.) mulțime, sumă.",
+                        "grup, tranșă, categorie într-o succesiune sau într-o clasificare.",
+                        "expresie matematică formată dintr-o infinitate de termeni care se deduc unul din altul conform unei anumite reguli și care sunt legați între ei cu semnul plus sau minus.",
+                        "(chim.) grup de compuși organici caracterizați prin faptul că fiecare are în molecula lui câte un atom de carbon și doi atomi de hidrogen mai mult decât compusul precedent al grupului.",
+                        "număr de ordine care se aplică pe mărfurile fabricate într-un număr mare de exemplare de același tip.",
+                        "număr caracteristic unuia dintre tipurile de fabricație a unor produse finite.",
+                        "complex de straturi care s-au depus în timpul unei epoci geologice.",
+                        "grup de sunete sau de foneme caracterizate printr-o trăsătură comună."
+                    ]
+                }
+            ]
+        ],
+        "grup": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "ansamblu de obiecte, de animale sau de plante asemănătoare, aflate laolaltă.",
+                        {
+                            "text": "ansamblu de obiecte, de piese etc. de același fel, reunite pe baza caracteristicilor funcționale și alcătuind un tot.",
+                            "examples": [
+                                "Grup electrogen."
+                            ]
+                        },
+                        "ansamblu de persoane reunite (în mod stabil sau temporar) pe baza unei comunități de interese, de concepții etc.; grupă, colectiv.",
+                        "(spec.) fracțiune politică; grupare formată din reprezentanții unui partid sau ai unui curent politic.",
+                        "(mat.) mulțime de elemente în care fiecărei perechi de elemente îi corespunde un element din aceeași mulțime, în care este adevărată asociativitatea oricare ar fi elementele mulțimii, în care există un element neutru și un element opus legii de compunere a mulțimii."
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "Grupuri-grupuri = (în) mai multe cete sau grămezi"
+                    ]
+                }
+            ]
+        ],
+        "neutru": [
+            [
+                {
+                    "part_of_speech": "adjectiv",
+                    "text": [
+                        "(despre state, popoare etc.) care este în stare de neutralitate, care nu face parte din beligeranți sau dintre părțile adverse; neutral.",
+                        "(p.ext.) (despre oameni sau grupuri sociale) care nu se încadrează în nici un partid, în nici un curent etc.; care se abține de la a se pronunța pro sau contra, păstrând o atitudine rezervată, pasivă.",
+                        "care nu poate fi calificat nici în sens pozitiv și nici în sens negativ, care nu trezește nici un interes deosebit, care este nesemnificativ, indiferent; care manifestă indiferență, lipsă de participare: (spec.) lipsit de valoare afectivă sau stilistică.",
+                        "(fon.) care nu participă la o anumită opoziție fonologică.",
+                        "(despre sensul cuvintelor) care este indiferent față de genul (feminin sau masculin) indicat de forma cuvântului; care se poate referi la obiecte de orice gen; neutral.",
+                        "(chim.) care nu are nici caracter acid, nici caracter bazic; neutral.",
+                        "la care ionii de hidrogen ai acidului au fost înlocuiți cu metale.",
+                        "(fiz.) care nu are sarcină electrică; care posedă în cantități egale sarcină electrică pozitivă și negativă."
+                    ]
+                }
+            ]
+        ],
+        "fonologic": [
+            [
+                {
+                    "part_of_speech": "adjectiv",
+                    "text": [
+                        "care ține de fonologie sau de foneme, privitor la fonologie; fonematic."
+                    ]
+                }
+            ]
+        ],
+        "nici": [
+            [
+                {
+                    "part_of_speech": "adverb",
+                    "text": [
+                        {
+                            "text": "(precedă cuvântul sau cuvintele care poartă accentul frazei, exprimând o negație mai categorică decât „nu” și fiind de obicei dublat de „nu”)",
+                            "examples": [
+                                "Nu are timp, nici nu dorește.",
+                                "Nici nu vede, nici nu aude."
+                            ]
+                        },
+                        {
+                            "text": "(împreună cu pron. nehot. „unul”, „una” formează pronume negative)",
+                            "examples": [
+                                "A fost furtună mare, nu vedeai nici înainte, nici înapoi."
+                            ]
+                        },
+                        {
+                            "text": "(adjectival; urmat de art. nehot., „un”, „o”)",
+                            "examples": [
+                                "Nici tu casă, nici tu masă."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        {
+                            "text": "Nici că = deloc nu...",
+                            "examples": [
+                                "Nu are timp, nici nu dorește.",
+                                "Nici nu vede, nici nu aude."
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "part_of_speech": "expresii",
+                    "text": [
+                        "Nici una, nici două sau nici una, nici alta = îndată, numaidecât; brusc, pe neașteptate"
+                    ]
+                }
+            ]
+        ],
+        "poseda": [
+            [
+                {
+                    "part_of_speech": "verb",
+                    "text": [
+                        {
+                            "text": "(v.tranz.) a avea ceva în proprietatea sau în stăpânirea sa, a dispune de ceva; a stăpâni.",
+                            "examples": [
+                                "A poseda un bun material."
+                            ]
+                        },
+                        "(la pasiv; despre oameni) a fi dominat de..., a fi stăpânit de...",
+                        "a avea anumite însușiri, caracteristici.",
+                        {
+                            "text": "a cunoaște bine un lucru; spec. a ști bine o limbă, o disciplină științifică etc.",
+                            "examples": [
+                                "Posed bine o limbă străină.",
+                                "Acest medic posedă o experiență bogată."
+                            ]
+                        }
+                    ]
+                }
+            ]
+        ],
+        "disciplină": [
+            [
+                {
+                    "part_of_speech": "substantiv",
+                    "text": [
+                        "totalitatea regulilor de comportare și de ordine obligatorii pentru membrii unei colectivități.",
+                        "ordine; spirit de ordine, deprindere cu o ordine strictă.",
+                        "ramură a unei științe; (p.gener.) știință."
+                    ]
+                }
+            ]
+        ]
+    }
+}
