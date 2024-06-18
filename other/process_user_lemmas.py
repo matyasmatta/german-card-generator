@@ -9,7 +9,7 @@ class UnprocessedLemmaFile:
     def read_file(self):
         with open(self.source, "r") as f:
             lines = f.readlines() 
-            words = [word for word in lines[0].split() if len(word) >= 4]
+            words = [word for word in lines[0].split() if len(word) >= 5]
         return words
 
     def print_words(self):

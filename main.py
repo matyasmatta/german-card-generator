@@ -201,6 +201,14 @@ def process_lemmas(file: str) -> bool:
         data = get_lemma(item.replace("\n",""))
         if data: push_data(data, "out.csv")
 
+def validate_lemma(translation:str, lemma:str):
+    forbidden_items = ["preterite", "present", "dative", "accusative", "-person", "singular", "plural"]
+    for item in forbidden_items:
+        if item in translation:
+            print(f"Skipped entry {lemma}, it was found to not be lemma due to {item} in {translation}.")
+            return False
+    return True
+
 def get_lemma(lemma):
     try:
         parser = WiktionaryParser()
@@ -209,6 +217,8 @@ def get_lemma(lemma):
         formatted_translation, meaning_hint = get_translation(word)
         gender = determine_gender(word)
         formatted_lemma = format_lemma(lemma, wordtype, gender)
+        if not validate_lemma(formatted_translation, lemma):
+            return None
         return [formatted_lemma, formatted_translation, wordtype, meaning_hint, gender] if formatted_lemma else None
     except:
         return None

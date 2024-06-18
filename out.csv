@@ -1,129 +1,81 @@
-das Abenteuer,adventure,N,,n
-die Achse,"axle, axis",N,,f
-der Affe,"<ul>  <li>monkey or ape, ellipsis of Fellaffe., a kind of furry military knapsack</li>  <li>drunkenness, alcohol intoxication</li></ul>",N,,m
-der Apostel,apostle ,N,Apostle,m
-das Areal,"area, plot ",N,,n
-die Begleitung,The act of enabling individuals and communities to become more included and active citizens.,N,,f
-der Beiname,"epithet, sobriquet, byname",N,,m
-das Beinhaus,"ossuary, bonehouse, building for storing bones",N,,n
-die Brauerei,brewery,N,,f
-der Brunnen,well,N,,m
-der Duft,"smell, scent",N,,m
-die Einstellung,"<ul>  <li>cessation, discontinuation, hiring, beginning of an employment</li>  <li>adjustment, setting, calibration (of a machine)</li>  <li>adjustment (of medication), shot, take</li>  <li>dismissal (of action or a case)</li>  <li>attitude</li></ul>",N,,f
-die Erkenntnis,"realization, recognition, insight, perception",N,,f
-die Erzabtei,"an archabbey, especially one of the Benedictine Order",N,,f
-das Erzbistum,archbishopric,N,,n
-die Farm,farm,N,,f
-der Fischer,"<ul>  <li>component part in various compound nouns, e.g. Amazonasfischer (“Amazon kingfisher”), Austernfischer (“oystercatcher”)</li>  <li>fisher, fisherman, component part in various compounds for different kinds of fishing boats, e.g. Grundschleppnetzfischer</li>  <li>a common surname originating as an occupation</li></ul>",N,“trawler”,m
-der Friedhof,"cemetery, graveyard",N,,m
-die Fußnähe,walking distance,N,,f
-das Geheimnis,secret,N,,n
-der Geist,"<ul>  <li>spook, the Holy Spirit; Holy Ghost</li>  <li>ghost; spook, essence, mind, wit</li>  <li>an alcoholic drink; a spirit</li></ul>",N,,m
-das Gelände,"area, terrain",N,,n
-die Gemeinde,"<ul>  <li>church, congregation, assembly, parish, community</li>  <li>municipality</li></ul>",N,,f
-das Gemeindehaus,"<ul>  <li>church hall, parish hall, community center, community hall</li>  <li>town hall</li></ul>",N,,n
-das Gericht,"judgement / judgment, court",N,,n
-das Gift,"poison; toxin; venom, gift; something given",N,,n
-der Gipfel,"summit, peak, pinnacle",N,,m
-das Gässchen,"diminutive of Gasse; small, narrow lane",N,,n
-der Halt,"<ul>  <li>support, halt; cessation, foothold; grip</li>  <li>hold; adhesion, stop</li></ul>",N,,m
-der Hass,"hatred, hate",N,,m
-der Hügel,hill,N,,m
-die Kapelle, chapel,N,,f
-die Kita,day care center,N,,f
-die Kostprobe,sample,N,,f
-die Kreisstadt,"county seat, county town",N,,f
-die Krone,crown,N,,f
-der König,"king, a common surname transferred from the nickname",N,,m
-das Lager,"<ul>  <li>a place where one sleeps, such as a bed or a spot in a barn, etc.</li>  <li>a stock; storage; depot; repository</li>  <li>a camp, party (group of people sharing some interest or opinion)</li>  <li>a measure (of some resource)</li>  <li>an army, especially but not exclusively when encamped</li>  <li>a bearing, a lair of an animal</li>  <li>Short for Lagerbier: lager, a camp</li></ul>",N,,n
-die Lawine,avalanche,N,,f
-der Löwe,"lion, Leo, lion, as used on a coat of arms",N,,m
-die Lüge,lie,N,,f
-die Marionette,"marionette, puppet, puppet (person, country, etc, controlled by another)",N,figuratively,f
-der Mord,murder,N,,m
-das Motto,"motto, slogan",N,,n
-das Naturschutzgebiet,nature reserve,N,,n
-der Neffe,"nephew, another male relative, especially a grandson, but also a cousin etc.",N,obsolete,m
-das Opfer,"<ul>  <li>sacrifice, wimp (someone weak or dependent; one who cannot stand up for themselves) [from 2000s]</li>  <li>victim</li></ul>",N,,n
-die Region,region,N,,f
-die Reinigung,"dry cleaner, cleaning, cleansing, purification",N,,f
-das Reservat,"<ul>  <li>(rare) remaining area of application, reserve, reservation</li>  <li>a reserve fund, reserve, a reserved right, privilege</li></ul>",N,obsolete,n
-die Revolution,revolution,N,,f
-das Schaf,sheep,N,,n
-das Schießpulver,gunpowder,N,,n
-der Schwanz,"a tail, a prick, a cock, a dick, a penis",N,,m
-der Silberbergbau,"silver-mining industry, silver mining",N,,m
-die Spende,donation ,N,,f
-der Stausee, reservoir,N,,m
-der Stein,"<ul>  <li>any stone-like material such as brick or concrete</li>  <li>stone (unit of weight), money, bucks</li>  <li>Short for Spielstein (“piece, token, tile”).</li>  <li>stone, rock, pit, stein (type of beer mug)</li>  <li>a topographic or surname originating as an occupation</li></ul>",N,,m
-der Streit,"quarrel, dispute, fight, argument, fight, battle",N,,m
-die Stufe,"<ul>  <li>age, degree, stage, level, rank, phase</li>  <li>year (all pupils of a year or grade, regardless of forms)</li>  <li>an aggregation of standalone and well-crystallized mineral</li>  <li>step, tread</li></ul>",N,,f
-die Synagoge,synagogue,N,,f
-der Teich,"pond, Ellipsis of großer Teich (“Atlantic Ocean”).",N,colloquial,m
-der Teufel,"a devil, satan, the Devil, Satan (supreme evil spirit in the Abrahamic religions)",N,,m
-der Umsturz,"overthrow, putsch, coup d'état",N,,m
-der Umweg,"roundabout way, detour",N,,m
-der Veranstaltungsort,venue,N,,m
-die Vielfalt,"diversity, variety (of)",N,,f
-das Vorurteil,"prejudice, stereotype",N,,n
-die Ziege,"<ul>  <li>a stupid, stubborn person (usually female)</li>  <li>goat</li></ul>",N,,f
-der Zusammenfluss,confluence,N,,m
-ausgehen,"<ul>  <li>to start (from), take as one's starting point</li>  <li>to leave, get away, come away (to depart, implying a certain consequence or result, or lack thereof)</li>  <li>to go out (to leave one's abode go public places)</li>  <li>to run out (to be completely used up or consumed)</li>  <li>to measure a distance by pacing</li>  <li>to fall out (to come out without being made do so)</li>  <li>to suffice, exist in sufficient quantity</li>  <li>to go out (to be turned off or extinguished)</li>  <li>to end, turn out (to have a given result)</li></ul>",V,intransitive,
-ausklingen,<ul>  <li>to come an end; draw a close</li>  <li>Synonym of verklingen</li></ul>,V,"intransitive, of sound",
-außerhalb,"<ul>  <li>outside, outside (of), beyond, outside, beyond</li>  <li>out of town, outside</li></ul>",Prep,spatial,
-beiseite,"<ul>  <li>Alternative form of zur Seite (“aside, to the side”)</li>  <li>aside, away; out of one’s way; aside</li></ul>",Adv,,
-belegen,"<ul>  <li>to mate with, bombard</li>  <li>to document, back, substantiate, cover</li>  <li>to reserve (a seat, room etc.); occupy (a building)</li>  <li>to enroll for; take (a course)</li>  <li>to fill</li></ul>",V,,
-bereit,"(often with für , or auf (“on, to”)) ready (for, on, to)",Adj,“for”,
-besiegen, to defeat (to overcome in battle or contest),V,transitive,
-betreiben,"<ul>  <li>to pursue (a policy, a goal)</li>  <li>to do (sport,trade), pursue (someone in order collect a debt); dun</li>  <li>to run, operate (a business, an engine, etc.)</li></ul>",V,transitive,
-bevor,"before, before [until 18th c.]",Conj,,
-bezaubern,"to enchant, to fascinate",V,,
-böhmisch," Bohemian, Czech",Adj,relational,
-damalig,"then, former, erstwhile",Adj,,
-dank,"thanks to, because of",Prep,,
-dortig,"local; of, from there",Adj,,
-durchnehmen,"to cover, to fuck",V,"transitive, education",
-ebenfalls,"also, likewise, as well",Adv,,
-ehemalig,"former, erstwhile",Adj,,
-erforschen," to explore, to investigate",V,transitive,
-erleiden," to suffer, to endure, to undergo",V,transitive,
-fotogen,photogenic ,Adj,,
-gastfreundlich,hospitable,Adj,,
-gemeinsam,"together, jointly, common, mutual, shared",Adj,,
-gering,"little, low",Adj,,
-gewiss,"certain, certainly, indeed",Adj,,
-gotisch, Gothic,Adj,relational,
-hageln, to hail,V,"intransitive, impersonal, weather",
-harmlos,"innocuous, inoffensive, harmless",Adj,,
-innerhalb,"within, inside, within, in the space of",Prep,spatial,
-meistbesucht,most-visited,Adj,,
-mitbekommen,"<ul>  <li>to get or be given something when leaving</li>  <li>to understand, notice, learn, find out (become aware, become informed, come know) [+ von (object) = about]</li></ul>",V,transitive,
-mithilfe,"by means of, with",Prep,,
-nachahmen,"to copy, imitate, emulate ",V,,
-nachdem,after ,Conj,that,
-nachsichtig,"forgiving, clement",Adj,,
-nächstgelegen,nearest,Adj,,
-nördlich,"north, northern",Adj,,
-ordentlich,"tidy, orderly, honest, decent, good, proper",Adj,,
-prunkvoll,"magnificent, sumptuous",Adj,,
-prächtig,"splendid, wonderful",Adj,,
-schlagartig,"abruptly, abrupt",Adj,,
-seitens," by, on behalf of, at the hands of, on the part of",Prep,,
-sowieso,"<ul>  <li>anyway, anyhow, in any case</li>  <li>something; replaces unknown or unimportant words</li>  <li>of course; sure; that’s a given; expresses agreement to a statement with the implication that it is trivial</li></ul>",Adv,,
-statt,"instead of, instead of, in one's stead",Conj,,
-städtisch,"municipal, urban",Adj,,
-südlich,"south, southern",Adj,,
-trotz,"in spite of, despite",Prep,,
-umbringen,"to commit suicide, kill, murder, do away with",V,transitive,
-unheimlich,"creepy, eerie, incredible, uncanny, large; (intensifier) very in an overbearing way",Adj,,
-unschuldig, innocent,Adj,law,
-verursachen," to cause, to induce",V,transitive,
-weitläufig,"rambling, sprawling, spacious, ample, expansive",Adj,,
-wertvoll,valuable,Adj,,
-westlich,"west, western",Adj,,
-winzig,"minute, tiny ",Adj,,
-zweifellos,doubtless,Adj,,
-östlich,"east, eastern",Adj,,
-das Abenteuer,adventure,N,,n
-die Achse,"axle, axis",N,,f
-der Affe,"<ul>  <li>drunkenness, alcohol intoxication, monkey or ape</li>  <li>ellipsis of Fellaffe., a kind of furry military knapsack</li></ul>",N,,m
+nicht,"not, non-, right?; is it?; is it not?",Adv,,
+werden,"<ul>  <li>to be done; forms the passive voice</li>  <li>to become; get; grow; turn</li>  <li>to be, happen, occur (in the future)</li>  <li>to be going work, begin or come feel or experience (a condition)</li>  <li>would; forms the subjunctive tense of most verbs</li>  <li>will; to be going (to do something); forms the future tense</li></ul>",V,colloquial,
+nach,"<ul>  <li>after, behind, later, next to</li>  <li>for, after, past, like (see usage notes below)</li>  <li>according to; guided by, to, towards</li>  <li>after, behind, by the authority of; following</li></ul>",Prep,,
+noch,"<ul>  <li>, still, yet, additionally, in addition, besides, else; more often expressed in English with another, more</li>  <li>just; barely (by a small margin)</li>  <li>yet, eventually, even</li></ul>",Adv,,
+über,"<ul>  <li>about, concerning, over, at (in reference to)</li>  <li>over, about, left over, remaining, replaces übrig in all its predicative instances, including those lexicalized as verb prefixoids.</li>  <li>over, more than, above, beyond</li>  <li>via, through, by way of</li>  <li>around, among, across, at, above, over (spatially)</li>  <li>during, for, over a time period</li></ul>",Prep,accusative,
+haben,"<ul>  <li>to have (to be scheduled attend)</li>  <li>to contain, be composed of, equal</li>  <li>to have (forms the perfect aspect)</li>  <li>to talk about, make a fuss</li>  <li>to get (to receive), have, get (to obtain, acquire)</li>  <li>there be, there is, there are</li>  <li>to have (to do); must (do)</li>  <li>to have; own (to possess, have ownership of; possess a certain characteristic)</li>  <li>to be occupied with, like, be into</li>  <li>to have; hold (to contain within itself/oneself)</li>  <li>to have (to be afflicted with, suffer from)</li></ul>",V,transitive,
+oder,"or, right?; is it?; is it not?",Conj,,
+aber,"<ul>  <li>rather; quite; unusually; used with adjectives to express a surprising degree, whether this surprise be real or for effect</li>  <li>again, nonetheless, nevertheless, but; however; though</li></ul>",Conj,,
+mehr,"<ul>  <li>something more, more, no longer, never again, nothing more, not anymore</li>  <li>comparative degree of viel; more</li></ul>",Pron,,
+durch,"<ul>  <li>owing to; because of, past</li>  <li>via, divided by, during; throughout; through</li>  <li>through, through; entering, then exiting</li>  <li>by means of; by; through</li></ul>",Prep,,
+das Prozent,percent,N,,n
+gegen,"<ul>  <li>compare to, against, approximately, around</li>  <li>facing, in exchange for, toward</li></ul>",Prep,,
+schon,"<ul>  <li>previously, before, expresses that an action has been completed; already (but more frequent); yet (in questions)</li>  <li>already, really, expresses a weighing of arguments, contrast between two statements, partial agreement, concession; admittedly; sure(ly); definitely; indeed</li></ul>",Adv,,
+wenn,"when, if",Conj,,
+die Mark,"<ul>  <li>Ellipsis of Deutsche Mark., Ellipsis of Mark der DDR.</li>  <li>mark</li></ul>",N,,f
+dann,"then, after that, then, in that case",Adv,,
+unter,"<ul>  <li>among, between, during, under, below</li>  <li>with; along with; accompanied by an action (often concessive)</li></ul>",Prep,,
+das Jahr,year ,N,,n
+dieser,"that one, that, this one, this",Pron,,
+wieder,<ul>  <li>again; indicates that the action taking place has happened before</li>  <li>back; indicates that the action will return something to its original state or position</li></ul>,Adv,,
+zwischen,"among, amongst, between",Prep,,
+seit,"for, since",Conj,,
+jetzt,"now, now, then",Adv,,
+damit,"pronominal adverb of mit, so that, in order that",Adv,,
+bereits,already,Adv,,
+müssen,<ul>  <li>to need go the bathroom.</li>  <li>to have do something implied; must; be obliged.</li></ul>,V,"intransitive, with past participle “gemusst”",
+ohne,"without, without",Conj,+accusative,
+sondern,"rather, but (instead)., so?, then what?, so you tell me!",Conj,,
+etwa,"<ul>  <li>by any chance, really (expresses the expectation of a negative answer)</li>  <li>approximately, for instance</li></ul>",Adv,,
+heute,today,Adv,,
+weil,"because, given that",Conj,,
+das Aber,"an objection, a but",N,,n
+das Ende,"end, finish, conclusion",N,,n
+jedoch,"however, yet, nevertheless, but",Adv,conjunctive,
+die Zeit,"<ul>  <li>stint, a surname, tense, time</li>  <li>time of day, period, era</li></ul>",N,grammar,f
+sollen,<ul>  <li>to be intended (to do something); be meant (to be something)</li>  <li>to be recommended (to do something); be asked (to do something)</li>  <li>should; to be obligated (to do something); ought; shall</li></ul>,V,auxiliary,
+das Wenn, if,N,informal,n
+die Stadt,"<ul>  <li>city, town, town council, city council (a governing body of people elected to oversee management of a municipality)</li>  <li>city, town, city center (a central business area of a city)</li></ul>",N,metonymically,f
+sehr,"very, a lot, much",Adv,,
+hier,"<ul>  <li>here; in this place; refers to an environment one is currently in, or something within reach</li>  <li>used with the definite article or the determiner dieser to express proximity (“this”)</li>  <li>here (within this context), Used for emphasis or to call for attention, often when changing the subject</li></ul>",Adv,location,
+ganz,"<ul>  <li>very, true; real, integer (of a number)</li>  <li>quite, rather, whole, intact, wholly, entirely, all</li>  <li>all (with definite article or determiner)</li>  <li>entire, whole, complete</li></ul>",Adj,,
+erst,"<ul>  <li>first, at first, only, not until, not for, not before</li>  <li>only, as recently as, Synonym of zumal</li>  <li>Short for erstmal.</li></ul>",Adv,,
+wollen," wool; woolen, woollen",Adj,relational,
+sowie,"as soon as, as well as",Conj,,
+kein,no; not a; not one; not any,Pron,n,
+machen,"<ul>  <li>to do; indicates an activity associated with a noun</li>  <li>to do one's business, do number two or number one, go (to defecate or urinate)</li>  <li>to make (to cause be)</li>  <li>to cause (to set off an event or action or produce as a result)</li>  <li>to do, perform, carry out (to execute; put into operation (an action))</li>  <li>to make (to earn, gain wages, profit, etc.)</li>  <li>to make (to cause or compel (to do something))</li>  <li>to make, produce, create (an object, arrangement, situation, etc.)</li>  <li>to make (to have as a feature)</li>  <li>to make, prepare, go (to make the (specified) sound)</li>  <li>to matter (to be important)</li>  <li>to do (to fare or perform (well or poorly))</li>  <li>to look (to have an appearance of being)</li>  <li>to be, play (to act as the indicated role, especially in a performance)</li>  <li>to make (transform from one thing into another)</li>  <li>to make, be (the result of a calculation)</li>  <li>to come to, total, cost (to require the payment of)</li></ul>",V,transitive,
+lassen,"<ul>  <li>to let remain, leave (in a certain state)</li>  <li>to cease; desist, allow; permit; let</li>  <li>to stop (something); quit; refrain from; help doing (something)</li></ul>",V,"transitive, with an infinitive, past participle: “lassen”",
+das Unternehmen,"<ul>  <li>undertaking, operation, business, enterprise, company</li>  <li>gerund of unternehmen</li></ul>",N,,n
+dabei,"<ul>  <li>with one, on one, thereby, thus</li>  <li>pronominal adverb of bei, indeed, (but) actually (expressing a contradiction)</li>  <li>in the process of</li></ul>",Adv,,
+wegen,"for, because of",Prep,,
+weiter,"<ul>  <li>on; expresses the continuation of an action</li>  <li>go on, further, farther, more</li>  <li>next, comparative degree of weit</li></ul>",Adj,,
+denn,"<ul>  <li>thus, so; (expresses a consequence; see usage notes)</li>  <li>then, after that, in that case</li>  <li>than, for; because; since</li></ul>",Conj,,
+einmal,"<ul>  <li>sometime, once, once, one time</li>  <li>first of all, for starters, firstly</li></ul>",Adv,,
+etwas,"<ul>  <li>a little, a bit, somewhat, slightly</li>  <li>some, a bit of, something</li></ul>",Pron,,
+nichts,nothing,Pron,,
+allerdings,"indeed!, but, however",Adv,conjunctive,
+viel,"much, a lot, much, many",Pron,,
+dort,"there, yonder",Adv,,
+alles,"<ul>  <li>form of all, all (as in ""we all"" etc.)</li>  <li>everything; all</li></ul>",Pron,indefinite,
+fast,"<ul>  <li>almost; nearly, extremely, very much</li>  <li>hardly</li></ul>",Adv,,
+die Frau,"<ul>  <li>wife, lady; noblewoman, a title of courtesy, equivalent to Mrs/Ms, which has nearly replaced Fräulein in the function of Miss</li>  <li>woman, madam</li></ul>",N,,f
+dafür,"<ul>  <li>instead, at least, as a compensation</li>  <li>for that, for it</li></ul>",Adv,,
+zwar,namely; only in the form und zwar,Adv,,
+dazu,"<ul>  <li>in addition to it, in addition, besides</li>  <li>for that purpose, to it, that</li></ul>",Adv,,
+der Mann,"husband, man, male human being",N,,m
+also,"<ul>  <li>so, An intensifier, indicates an emotional connection to the statement.</li>  <li>then, thus, so, hence, alright</li>  <li>Used to resume an interrupted train of thought.</li>  <li>Used to introduce additional information about something previously mentioned.</li>  <li>thus, in this way, so, therefore</li></ul>",Conj,,
+bisher,"so far, until now, as yet",Adv,,
+die Welt,world,N,,f
+die Regierung,"the act of governing, government/administration",N,politics,f
+während,"<ul>  <li>during, at the time of</li>  <li>while</li></ul>",Conj,,
+das Land,"<ul>  <li>country, countryside, country, state, province</li>  <li>land</li></ul>",N,,n
+dies,Alternative form of dieses,Pron,,
+zurück,"<ul>  <li>back, backward, backwards, to the rear.</li>  <li>stand back!, get back!</li></ul>",Adv,,
+sogar," even, actually, in fact",Adv,,
+die Frage,"question, doubt, question, issue, question [+ an (object) = for]",N,,f
+erste, first,Adj,,
+davon,"from it, from that, therefrom, off it, off that",Adv,,
+gestern,yesterday,Adv,,
+der Teil,"<ul>  <li>penis (see U.S. slang usage of thing)</li>  <li>fraction of a whole, piece of clothing</li>  <li>thing (any object, not limited to those which are part of a greater object)</li>  <li>part, piece</li></ul>",N,,m
+die Polizei, police,N,,f
+dass,"so that, that",Conj,subordinating,
